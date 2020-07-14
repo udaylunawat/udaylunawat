@@ -25,7 +25,7 @@
 ### 🔭 My Skills
  I Know and Use            |  GitHub Stats 
 :-------------------------:|:-------------------------:
-![](https://github.com/udaylunawat/udaylunawat.github.io/blob/master/lennon_word.png)  |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=["prs"]&hide_rank=true&hide_border=true&bg_color=151515)
+![](https://github.com/udaylunawat/udaylunawat.github.io/blob/master/lennon_word.png)  |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=["prs"]&hide_rank=true&hide_border=true)
 
 
 
