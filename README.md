@@ -25,7 +25,7 @@
 ### 🔭 My Skills
  I Know and Use            |  GitHub Stats 
 :-------------------------:|:-------------------------:
-![](https://github.com/udaylunawat/udaylunawat.github.io/blob/master/lennon_word.png)  |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide_border=true)
+![](https://github.com/udaylunawat/udaylunawat.github.io/blob/master/lennon_word.png)  |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=["prs"]&hide_rank=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 
@@ -33,10 +33,10 @@
 <!--
 <p align="center">
   <img align="right" alt="My Skills" src="https://github.com/udaylunawat/udaylunawat.github.io/blob/master/lennon_word.png" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=prankshaw&show_icons=true&hide_border=true" alt="Uday's Github Stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide_border=true" alt="Uday's Github Stats">
 </p>
 <!--
-* ✍🏻 I wrote dev articles on [dev.to](https://dev.to/prankshaw) <br/>
+* ✍🏻 I wrote dev articles on [dev.to](https://dev.to/udaylunawat) <br/>
 * 📫 Contact me [@udaylunawat](https://twitter.com/udaylunawat)
 - Personal site: https://udaylunawat.github.io/ <br>
 You can contact me over any platform with an introduction about you. I will be waiting for your messages.
