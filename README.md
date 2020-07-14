@@ -9,7 +9,7 @@
 <a href="https://medium.com/@udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium/@udaylunawat"></a>
 <a href="https://www.instagram.com/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram-@udaylunawat"></a>
 <a href="https://www.facebook.com/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebookudaylunawat"></a>
-<a href="https://paypal.me/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Website-00457C?style=flat-square&labelColor=000000&logo=PayPal" alt="https://paypal.me/udaylunawat"></a>
+<a href="https://paypal.me/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Paypal-00457C?style=flat-square&labelColor=000000&logo=PayPal" alt="https://paypal.me/udaylunawat"></a>
 <a href="https://open.spotify.com/playlist/69Ez7Nck73tXmrbGSVXdJ6" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
 
