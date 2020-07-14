@@ -1,5 +1,5 @@
 <h1 align='center'> Hi There! 👋 <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=udaylunawat.udaylunawat" alt="visitor badge"></a></h1>
-<p align='center'> <samp>Data Science | Content Writer | Software Developer</samp></p>
+<p align='center'> <samp>Data Science | Software Developer</samp></p>
 
 <div align="center">
   
