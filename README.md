@@ -16,7 +16,7 @@
 
 I am a Machine learning and Artificial intelligence enthusiast. My core interest lies in AI applications and would like to be an AI developer in the future which would help me to increase my knowledge in this field.
 
-I graduated in Information Tech from RCOEM, Nagpur & working as an Associate Machine Learning Engineer at Vasa inc. where I am learning new things in Data Science and implementing them in various projects.
+I graduated in Information Tech from [**RCOEM**](http://www.rknec.edu/), Nagpur & working as an Freelance Machine Learning Engineer where I am learning new things in Data Science and implementing them in various projects.
 
 In the past, I have worked with [**Tata Consultancy Services (TCS)**](https://www.tcs.com/) and [**Infosys**](https://www.infosys.com/) as a Business Intelligence and Python Intern.
 
