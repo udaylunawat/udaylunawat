@@ -14,15 +14,36 @@
 </div>
 
 
-<h2 align='center'> I'm an Information Technology Engineer from Nagpur, India. </h2> 
-<h2 align='center'> Besides coding, I love to read a lot and write a bit.</h2> 
+I am a Machine learning and Artificial intelligence enthusiast. My core interest lies in AI applications and would like to be an AI developer in the future which would help me to increase my knowledge in this field.
 
-### 😄 Know About Me: ...
+I graduated in Information Tech from RCOEM, Nagpur & working as an Associate Machine Learning Engineer at Vasa inc. where I am learning new things in Data Science and implementing them in various projects.
+
+In the past, I have worked with [**Tata Consultancy Services (TCS)**](https://www.tcs.com/) and [**Infosys**](https://www.infosys.com/) as a Business Intelligence and Python Intern.
+
+Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
+
+
+### 😄 Know More About Me: ...
 * 🔖 Discover my [Website](https://udaylunawat.github.io/)<br/>
 * 💼 Hire Me [Resume](https://drive.google.com/file/d/1reHy-D2pTy474j6F97u_Foyxspj30_8Q/view?usp=sharing) <br/>
+
+### Things I'm good at :fire:
+
+**Languages:**  Python, SQL.
+
+**Framework:** Flask.
+
+**Libraries & Tools:** Google Cloud Platform, TensorFlow, NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK, LaTeX.
+
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Data Warehousing, Quantitative Methods.
+
+### **How to reach me 📱**
+Known on the internet as **[udaylunawat](https://www.google.com/search?q=udaylunawat)**
+
+[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/7020901969) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/Xxhxebkfcp00) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/udaylunawat/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://www.github.io/udaylunawat/) 
+[<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@udaylunawat)
 
 ### 🔭 My Skills
  I Know and Use            |  GitHub Stats 
 :-------------------------:|:-------------------------:
 <img src="https://github.com/udaylunawat/udaylunawat.github.io/blob/master/lennon_word.png" alt="drawing" width="300"/> |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=["prs"]&hide_rank=true&hide_border=true)
-
