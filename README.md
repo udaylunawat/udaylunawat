@@ -26,7 +26,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 ### 😄 Know More About Me:
 🔖 Discover more about me at my <a href="https://udaylunawat.github.io/" target="_blank">**Website**</a><br/>
-💼 Hire Me <a href="https://drive.google.com/file/d/1reHy-D2pTy474j6F97u_Foyxspj30_8Q/view?usp=sharing" target="_blank">**Resume**</a><br/>
+💼 Hire Me <a href="https://drive.google.com/file/d/1tfqpUdc8Y6rTGiiIerb3YcKLzCB7AAlB/view?usp=sharing" target="_blank">**Resume**</a><br/>
 
 </div>
 
