@@ -22,10 +22,17 @@ In the past, I have worked with <a href="https://www.tcs.com/" target="_blank">
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
+<div align="center">
 
-### 😄 Know More About Me: ...
-* 🔖 Discover my <a href="https://udaylunawat.github.io/" target="_blank">**Website**</a><br/>
-* 💼 Hire Me <a href="https://drive.google.com/file/d/1reHy-D2pTy474j6F97u_Foyxspj30_8Q/view?usp=sharing" target="_blank">**Resume**</a><br/>
+### 😄 Know More About Me:
+🔖 Discover more about me at my <a href="https://udaylunawat.github.io/" target="_blank">**Website**</a><br/>
+💼 Hire Me <a href="https://drive.google.com/file/d/1reHy-D2pTy474j6F97u_Foyxspj30_8Q/view?usp=sharing" target="_blank">**Resume**</a><br/>
+
+</div>
+
+
+
+
 
 ### Things I'm good at :fire:
 
@@ -46,4 +53,4 @@ Known on the internet as **[udaylunawat](https://www.google.com/search?q=udaylu
 ### 🔭 My Skills
  I Know and Use            |  GitHub Stats 
 :-------------------------:|:-------------------------:
-<img src="https://github.com/udaylunawat/udaylunawat.github.io/blob/master/lennon_word.png" alt="drawing" width="300"/> |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=["prs"]&hide_rank=true&hide_border=true)
+<img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" alt="drawing" width="300"/> |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=["prs"]&hide_rank=true&hide_border=true)
