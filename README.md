@@ -16,16 +16,16 @@
 
 I am a Machine learning and Artificial intelligence enthusiast. My core interest lies in AI applications and would like to be an AI developer in the future which would help me to increase my knowledge in this field.
 
-I graduated in Information Tech from [**RCOEM**](http://www.rknec.edu/), Nagpur & working as an Freelance Machine Learning Engineer where I am learning new things in Data Science and implementing them in various projects.
+I graduated in Information Tech from <a href="http://www.rknec.edu/" target="_blank">**RCOEM**</a>, Nagpur & working as an Freelance Machine Learning Engineer where I am learning new things in Data Science and implementing them in various projects.
 
-In the past, I have worked with [**Tata Consultancy Services (TCS)**](https://www.tcs.com/) and [**Infosys**](https://www.infosys.com/) as a Business Intelligence and Python Intern.
+In the past, I have worked with <a href="https://www.tcs.com/" target="_blank">**Tata Consultancy Services (TCS)**</a> and <a href="https://www.infosys.com/" target="_blank">**Infosys**</a> as a Business Intelligence and Python Intern.
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
 
 ### 😄 Know More About Me: ...
-* 🔖 Discover my [Website](https://udaylunawat.github.io/)<br/>
-* 💼 Hire Me [Resume](https://drive.google.com/file/d/1reHy-D2pTy474j6F97u_Foyxspj30_8Q/view?usp=sharing) <br/>
+* 🔖 Discover my <a href="https://udaylunawat.github.io/" target="_blank">**Website**</a><br/>
+* 💼 Hire Me <a href="https://drive.google.com/file/d/1reHy-D2pTy474j6F97u_Foyxspj30_8Q/view?usp=sharing" target="_blank">**Resume**</a><br/>
 
 ### Things I'm good at :fire:
 
