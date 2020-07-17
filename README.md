@@ -1,4 +1,4 @@
-<h1 align='center'> Hi There! 👋 <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=udaylunawat.udaylunawat" alt="visitor badge"></a></h1>
+<h1 align='center'> Hi There! 👋 <a href="#"><img src="https://https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge"></a></h1>
 <p align='center'> <samp>Data Science | Software Developer | Lifelong learner</samp></p>
 
 <div align="center">
@@ -38,9 +38,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Languages:**  Python, SQL.
 
-**Framework:** Flask.
-
-**Libraries & Tools:** Google Cloud Platform, TensorFlow, NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK, LaTeX.
+**Libraries & Tools:** Google Cloud Platform, TensorFlow, NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK, LaTeX, Trello.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Data Warehousing, Quantitative Methods.
 
