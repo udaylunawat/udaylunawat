@@ -1,4 +1,4 @@
-<h1 align='center'> Hi There! 👋 <a href="#"><img src="https://https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge"></a></h1>
+<h1 align='center'> Hi There! 👋 <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge"></a></h1>
 <p align='center'> <samp>Data Science | Software Developer | Lifelong learner</samp></p>
 
 <div align="center">
