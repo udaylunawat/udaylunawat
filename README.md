@@ -38,9 +38,9 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Languages:**  Python, SQL.
 
-**Libraries & Tools:** Google Cloud Platform, TensorFlow, NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK, LaTeX, Trello.
+**Libraries & Tools:** Google Cloud Platform, TensorFlow, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK, LaTeX, Trello.
 
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Data Warehousing, Quantitative Methods.
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, CICD, Pipeline.
 
 ### **How to reach me 📱**
 Known on the internet as **[udaylunawat](https://www.google.com/search?q=udaylunawat)**
