@@ -51,4 +51,4 @@ Known on the internet as **[udaylunawat](https://www.google.com/search?q=udaylu
 ### 🔭 My Skills
  I Know and Use            |  GitHub Stats 
 :-------------------------:|:-------------------------:
-<img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" alt="drawing" width="500"/> |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=["prs"]&hide_rank=true&hide_border=true)
+<img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" alt="drawing" width="500"/> |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=["prs"]&hide_border=true)
