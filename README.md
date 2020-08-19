@@ -6,11 +6,11 @@
 <a href="https://www.linkedin.com/in/uday-lunawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/uday-lunawat"></a>
 <a href="mailto:udaylunawat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-udaylunawat@gmail.com"></a>
 <a href="https://twitter.com/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter-@udaylunawat"></a>
-<a href="https://medium.com/@udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium/@udaylunawat"></a>
 <a href="https://www.instagram.com/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram-@udaylunawat"></a>
 <a href="https://www.facebook.com/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebookudaylunawat"></a>
 <a href="https://paypal.me/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Paypal-00457C?style=flat-square&labelColor=000000&logo=PayPal" alt="https://paypal.me/udaylunawat"></a>
 <a href="https://open.spotify.com/playlist/69Ez7Nck73tXmrbGSVXdJ6" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<!-- <a href="https://medium.com/@udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium/@udaylunawat"></a> -->
 
 </div>
 
@@ -64,7 +64,7 @@ Known on the internet as **[udaylunawat](https://www.google.com/search?q=udaylu
 [<img target="_blank" src="https://img.icons8.com/metro/64/000000/skype.png"/>](https://join.skype.com/invite/Xxhxebkfcp00) 
 [<img target="_blank" src="https://img.icons8.com/ios/64/000000/linkedin.png"/>](https://www.linkedin.com/in/udaylunawat/) 
 [<img target="_blank" src="https://img.icons8.com/fluent/64/000000/github.png"/>](https://www.github.io/udaylunawat/) 
-[<img src="https://img.icons8.com/windows/64/000000/medium-logo.png"/>](https://medium.com/@udaylunawat)
+<!-- [<img src="https://img.icons8.com/windows/64/000000/medium-logo.png"/>](https://medium.com/@udaylunawat) -->
 
 ### 🔭 My Skills
  I Know and Use            |  GitHub Stats 
