@@ -35,7 +35,8 @@ I am working towards a role where I can engage with a group of like-minded peopl
 <div align="center">
 
 ### 😄 Know More About Me:
-Visit to see my education, experience, projects, certifications, achievements and testimonials of my clients	
+Visit to see my education, experience, projects, certifications, achievements and testimonials of my clients
+
 🔖 Discover more about me at my <a href="https://udaylunawat.github.io/" target="_blank">**Website**</a><br/>
 💼 Hire Me <a href="https://drive.google.com/file/d/1tfqpUdc8Y6rTGiiIerb3YcKLzCB7AAlB/view?usp=sharing" target="_blank">**Resume**</a><br/>
 
@@ -54,16 +55,16 @@ Visit to see my education, experience, projects, certifications, achievements an
 
 **Version Control:**  One and only GitHub :heart:	
 
-## Wanna know more about me?	
-
-[<img target="_blank" src="https://img.icons8.com/clouds/100/000000/domain.png">](https://www.rohitswami.com/) 	
-
 ### **How to reach me 📱**
 Known on the internet as **[udaylunawat](https://www.google.com/search?q=udaylunawat)**
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:udaylunawat@gmail.com)	
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/7020901969) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/Xxhxebkfcp00) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/udaylunawat/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://www.github.io/udaylunawat/) 
-[<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@udaylunawat)
+
+[<img target="_blank" src="https://img.icons8.com/material/64/000000/important-mail.png">](mailto:udaylunawat@gmail.com)	
+[<img target="_blank" src="https://img.icons8.com/pastel-glyph/64/000000/whatsapp--v2.png"/>](https://wa.me/7020901969) 
+[<img target="_blank" src="https://img.icons8.com/metro/64/000000/skype.png"/>](https://join.skype.com/invite/Xxhxebkfcp00) 
+[<img target="_blank" src="https://img.icons8.com/ios/64/000000/linkedin.png"/>](https://www.linkedin.com/in/udaylunawat/) 
+[<img target="_blank" src="https://img.icons8.com/fluent/64/000000/github.png"/>](https://www.github.io/udaylunawat/) 
+[<img src="https://img.icons8.com/windows/64/000000/medium-logo.png"/>](https://medium.com/@udaylunawat)
 
 ### 🔭 My Skills
  I Know and Use            |  GitHub Stats 
