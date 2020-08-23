@@ -49,9 +49,9 @@ Visit to see my education, experience, projects, certifications, achievements an
 
 **Libraries & Tools:** Google Cloud Platform, TensorFlow, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK, LaTeX, Trello.
 
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, CICD, Pipeline.
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Pipeline.
 
-**Development Environment:** Ubuntu 20.04 (Using), Windows OS, Jupyter Notebook, WSL2, Visual Studio Code	
+**Development Environment:** Ubuntu 20.04 (Using), Windows OS, Jupyter Notebook, Visual Studio Code	
 
 **Version Control:**  One and only GitHub :heart:	
 
