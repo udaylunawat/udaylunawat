@@ -2,7 +2,7 @@
 <p align='center'> <samp>Data Science | Software Developer | Lifelong learner</samp></p>
 
 <div align="center">
-  
+
 <a href="https://www.linkedin.com/in/uday-lunawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/uday-lunawat"></a>
 <a href="mailto:udaylunawat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-udaylunawat@gmail.com"></a>
 <a href="https://twitter.com/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter-@udaylunawat"></a>
@@ -43,15 +43,29 @@ Visit to see my education, experience, projects, certifications, achievements an
 </div>
 
 
-### Things I'm good at :fire:
+### Things I'm good at 🔥
 
-**Languages:**  Python [<img src="https://img.icons8.com/color/30/000000/snake.png">](), SQL.
+![Google Cloud Badge](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
+![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-red?logo=tensorflow&style=flat-square&logoColor=white)
+![Pandas Badge](https://img.shields.io/badge/Pandas-130654?logo=pandas&style=flat-square&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-1793D1?style=flat-square&logo=linux&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+![Anaconda Badge](https://img.shields.io/badge/-Anaconda-42B029?style=flat-square&logo=anaconda&logoColor=white)
+![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)
+![CMake Badge](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Languages:**  Python, SQL.
 
 **Libraries & Tools:** Google Cloud Platform, TensorFlow, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK, LaTeX, Trello.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Pipeline.
 
-**Development Environment:** Ubuntu 20.04 (Using), Windows OS, Jupyter Notebook, Visual Studio Code	
+**Development Environment:** PopOS 20.04 (Using), Ubuntu 20.04, Windows OS, Jupyter Notebook, Visual Studio Code.
 
 **Version Control:**  One and only GitHub :heart:	
 
@@ -66,7 +80,41 @@ Known on the internet as **[udaylunawat](https://www.google.com/search?q=udaylu
 [<img target="_blank" src="https://img.icons8.com/fluent/64/000000/github.png"/>](https://www.github.io/udaylunawat/) 
 <!-- [<img src="https://img.icons8.com/windows/64/000000/medium-logo.png"/>](https://medium.com/@udaylunawat) -->
 
+</p>
+<br>
+<br>
+<h3>My Projects  <img src="https://slackmojis.com/emojis/5948-bongo_blob/download" width="25"></h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition"><b>Indian ALPR System - GCP</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+
+  </tbody>
+</table>
+
+
+<h3>My latest projects <img src="https://slackmojis.com/emojis/4246-blob-sunglasses/download" width="25"></h3>
+<ul>
+  <li><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition" width="20" alt="new"><b>ALPR-India</b></b></a><br/><i>An end-end Deep Learning ALPR project on which you can play around with opencv morphological options and OCR</i></li>
+
+
+</ul>
+
 ### 🔭 My Skills
  I Know and Use            |  GitHub Stats 
 :-------------------------:|:-------------------------:
-<img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" alt="drawing" width="500"/> |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=["prs"]&hide_border=true)
+<img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" alt="drawing" width="500"/> |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=["prs"]&hide_border=true&theme=dracula)
