@@ -18,7 +18,7 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working a Data Science practitioner and freelancer.</li>
+        <li>🔭 I’m currently working as a Data Science practitioner and freelancer.</li>
         <li>👯 I’m looking to collaborate on Open Source projects on Machine Learning .</li>
         <li>💬 Ask me about Machine Learning or any tech related stuff.</li>
         <li>😄 Pronouns: He/His .</li>
