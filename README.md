@@ -19,9 +19,7 @@
     <td>
       <ul>
         <li>🔭 I’m currently working a Data Science practitioner and freelancer.</li>
-        <li>🌱 I’m currently learning Machine Learning with Python.</li>
         <li>👯 I’m looking to collaborate on Open Source projects on Machine Learning .</li>
-        <li>🤔 I’m looking for help with project documentation.</li>
         <li>💬 Ask me about Machine Learning or any tech related stuff.</li>
         <li>😄 Pronouns: He/His .</li>
         <li>⚡ Fun fact: Always wanted to explore the world via the mind phenomena.</li>
