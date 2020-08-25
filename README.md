@@ -43,7 +43,7 @@
 
 <h3 align="center">Self Proclaimed Data Wizard 🧙‍♂️ from India 🇮🇳</h3>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/udaylunawat/udaylunawat/blob/master/img/giphy.gif" alt="Coder GIF" width="250" height="250"></h3>
+<h3 align="center"><img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/giphy.gif" alt="Coder GIF" width="250" height="250"></h3>
 
 I am a Machine learning and Data Science practitioner who loves to uncover the hidden facts and meaningful insights from messy data. I'm a Machine Learning Engineer graduate from AAIC (Applied AI Course) where I learned building effective Machine Learning & Deep Learning Model, running Data Pipelines, Natural Language Processing, Image Processing, building Recommendation Systems, and deploying solutions to the cloud.
 
