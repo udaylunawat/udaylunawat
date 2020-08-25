@@ -33,10 +33,7 @@
    </tr>
 </table>
 
-
 <br>
-<br>
-
 
 ## Who Am I?
 
@@ -56,7 +53,6 @@ In the past, I have worked with <a href="https://www.tcs.com/" target="_blank">
 Currently, I am also looking for a full-time role in Data Science, Machine Learning or related field.
 
 <br>
-<br>
 
 ## What do I believe?
 
@@ -64,7 +60,6 @@ Personally, I believe in the thought that “Time is the gift that most of us ta
 
 I am working towards a role where I can engage with a group of like-minded people who dream to bring revolution in the world with data.
 
-<br>
 <br>
 
 ## Things I'm good at 🔥
@@ -97,10 +92,8 @@ I am working towards a role where I can engage with a group of like-minded peopl
 **Development Environment:** PopOS 20.04 (Using), Ubuntu 20.04, Windows OS, Jupyter Notebook, Visual Studio Code.
 
 **Version Control:**  One and only GitHub 💙
-
-
 </p>
-<br>
+
 <br>
 
 ## My Projects  <img src="https://slackmojis.com/emojis/5948-bongo_blob/download" width="25">
@@ -133,7 +126,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
   <li><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition" width="20" alt="new"><b>ALPR-India</b></b></a><br/><i>An end-end Deep Learning ALPR project on which you can play around with opencv morphological options and OCR</i></li>
 </ul>
 <br>
-<br>
+
 
 ## How to reach me 📱
 <table>
@@ -159,9 +152,6 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
    </tr>
 </table>
 
-
-
-<br>
 <br>
 
 ## 😄 Know More About Me:
