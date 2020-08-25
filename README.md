@@ -98,6 +98,8 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 **Version Control:**  One and only GitHub 💙
 
+
+</p>
 <br>
 <br>
 
