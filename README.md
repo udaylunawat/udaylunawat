@@ -1,4 +1,4 @@
-<h1 align='center'> Hi There! 👋 <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge"></a></h1>
+<h1 align='center'> Hi There! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px"> <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge"></a></h1>
 <p align='center'> <samp>Data Science | Software Developer | Lifelong learner</samp></p>
 
 <div align="center">
@@ -14,7 +14,24 @@
 
 </div>
 
+<br>
+<br>
+
+
 ## Who Am I?
+
+<br>
+<br>
+
+<h3 align="center">Self Proclaimed Data Wizard 🧙‍♂️ from India 🇮🇳</h3>
+
+<br>
+<br>
+
+<h3 align="center"><img src="https://raw.githubusercontent.com/udaylunawat/udaylunawat/blob/master/img/giphy.gif" alt="Coder GIF" width="250" height="250"></h3>
+
+<br>
+<br>
 
 I am a Machine learning and Data Science practitioner who loves to uncover the hidden facts and meaningful insights from messy data. I'm a Machine Learning Engineer graduate from AAIC (Applied AI Course) where I learned building effective Machine Learning & Deep Learning Model, running Data Pipelines, Natural Language Processing, Image Processing, building Recommendation Systems, and deploying solutions to the cloud.
 
@@ -26,38 +43,38 @@ In the past, I have worked with <a href="https://www.tcs.com/" target="_blank">
 
 Currently, I am also looking for a full-time role in Data Science, Machine Learning or related field.
 
+<br>
+<br>
+
 ## What do I believe?
 
 Personally, I believe in the thought that “Time is the gift that most of us take for granted”. I love to keep myself busy in gaining new skills and doing freelancing projects on the weekends.
 
 I am working towards a role where I can engage with a group of like-minded people who dream to bring revolution in the world with data.
 
-<div align="center">
-
-### 😄 Know More About Me:
-Visit to see my education, experience, projects, certifications, achievements and testimonials of my clients
-
-🔖 Discover more about me at my <a href="https://udaylunawat.github.io/" target="_blank">**Website**</a><br/>
-💼 Hire Me <a href="https://drive.google.com/file/d/1tfqpUdc8Y6rTGiiIerb3YcKLzCB7AAlB/view?usp=sharing" target="_blank">**Resume**</a><br/>
-
-</div>
-
+<br>
+<br>
 
 ### Things I'm good at 🔥
 
-![Google Cloud Badge](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
-![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
+![Google Cloud Badge](https://img.shields.io/badge/-Google_Cloud_Platform-000000?style=flat-square&logo=google-cloud&logoColor=white)
+![Heroku Badge](https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
 ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-red?logo=tensorflow&style=flat-square&logoColor=white)
-![Pandas Badge](https://img.shields.io/badge/Pandas-130654?logo=pandas&style=flat-square&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-1793D1?style=flat-square&logo=linux&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
-![Anaconda Badge](https://img.shields.io/badge/-Anaconda-42B029?style=flat-square&logo=anaconda&logoColor=white)
-![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)
-![CMake Badge](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas Badge](https://img.shields.io/badge/Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Keras Badge](https://img.shields.io/badge/Keras-000000?style=flat-square&logo=Keras&logoColor=white)
+![Anaconda Badge](https://img.shields.io/badge/-Anaconda-000000?style=flat-square&logo=anaconda&logoColor=white)
+![Jupyter Badge](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white)
+![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white)
+![CMake Badge](https://img.shields.io/badge/-CMake-000000?style=flat-square&logo=cmake&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=flat-square&logo=Raspberry-Pi)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 **Languages:**  Python, SQL.
 
@@ -67,18 +84,16 @@ Visit to see my education, experience, projects, certifications, achievements an
 
 **Development Environment:** PopOS 20.04 (Using), Ubuntu 20.04, Windows OS, Jupyter Notebook, Visual Studio Code.
 
-**Version Control:**  One and only GitHub :heart:	
+**Version Control:**  One and only GitHub 💙
 
-### **How to reach me 📱**
-Known on the internet as **[udaylunawat](https://www.google.com/search?q=udaylunawat)**
+<br>
+<br>
+
+ I Know and Use            
+:-------------------------:
+<img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" alt="drawing" width="500"/> | 
 
 
-[<img target="_blank" src="https://img.icons8.com/material/64/000000/important-mail.png">](mailto:udaylunawat@gmail.com)	
-[<img target="_blank" src="https://img.icons8.com/pastel-glyph/64/000000/whatsapp--v2.png"/>](https://wa.me/7020901969) 
-[<img target="_blank" src="https://img.icons8.com/metro/64/000000/skype.png"/>](https://join.skype.com/invite/Xxhxebkfcp00) 
-[<img target="_blank" src="https://img.icons8.com/ios/64/000000/linkedin.png"/>](https://www.linkedin.com/in/udaylunawat/) 
-[<img target="_blank" src="https://img.icons8.com/fluent/64/000000/github.png"/>](https://www.github.io/udaylunawat/) 
-<!-- [<img src="https://img.icons8.com/windows/64/000000/medium-logo.png"/>](https://medium.com/@udaylunawat) -->
 
 </p>
 <br>
@@ -110,11 +125,43 @@ Known on the internet as **[udaylunawat](https://www.google.com/search?q=udaylu
 <h3>My latest projects <img src="https://slackmojis.com/emojis/4246-blob-sunglasses/download" width="25"></h3>
 <ul>
   <li><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition" width="20" alt="new"><b>ALPR-India</b></b></a><br/><i>An end-end Deep Learning ALPR project on which you can play around with opencv morphological options and OCR</i></li>
-
-
 </ul>
+<br>
+<br>
 
-### 🔭 My Skills
- I Know and Use            |  GitHub Stats 
-:-------------------------:|:-------------------------:
-<img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" alt="drawing" width="500"/> |  ![](https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=["prs"]&hide_border=true&theme=dracula)
+
+<table>
+  <tr>
+    <td>
+    <h2>How to reach me 📱</h2>
+      
+Known on the internet as [udaylunawat](https://www.google.com/search?q=udaylunawat)
+
+[![Stack OverFlow](http://img.shields.io/badge/-Stack%20OverFlow-%000000?style=flat-square&logo=stack-overflow&logoColor=ffffff&link=https://stackoverflow.com/users/12069905/dracarys3)](https://stackoverflow.com/users/9292995/dracarys3)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-lunawat)](https://www.linkedin.com/in/uday-lunawat/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashrajjain726@gmail.com)](mailto:udaylunawat@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/yashrajjain726)](https://github.com/udaylunawat)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-181717?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/7020901969)](https://wa.me/7020901969)
+[![Skype](https://img.shields.io/badge/-Skype-181717?style=flat-square&logo=skype&logoColor=white&link=https://join.skype.com/invite/Xxhxebkfcp00)](https://join.skype.com/invite/Xxhxebkfcp00)
+
+
+<!-- [<img src="https://img.icons8.com/windows/64/000000/medium-logo.png"/>](https://medium.com/@udaylunawat) -->
+
+ </td>   
+     <td>
+     <img align='right' src="https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=&hide_border=true&theme=dracula">
+     </td>
+   </tr>
+</table>
+
+<div align="center">
+
+<br>
+<br>
+
+### 😄 Know More About Me:
+Visit to see my education, experience, projects, certifications, achievements and testimonials of my clients
+
+🔖 Discover more about me at my <a href="https://udaylunawat.github.io/" target="_blank">**Website**</a><br/>
+💼 Hire Me <a href="https://drive.google.com/file/d/1tfqpUdc8Y6rTGiiIerb3YcKLzCB7AAlB/view?usp=sharing" target="_blank">**Resume**</a><br/>
+</div>
