@@ -99,6 +99,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>🤖 Colab</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -108,12 +109,16 @@ I am working towards a role where I can engage with a group of like-minded peopl
   <tbody>
     <tr>
 	    <td><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition"><b>Indian ALPR System - GCP</b></a></td>
+      <td><a href="https://colab.research.google.com/drive/1BqegosjfXthG1v9p3TUVnfvkvMxAOC5g#scrollTo=LUUvnvqrvFy3"><b>Run & Deploy</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
+    <tr>
+	    <td><a href="https://colab.research.google.com/drive/1dNvFgDjxiu_Ziu_oVn63uYgrc-OJ9uvE"><b>Covid-19 Classifier & Dashboard</b></a></td>
+      <td><a href="https://colab.research.google.com/drive/1dNvFgDjxiu_Ziu_oVn63uYgrc-OJ9uvE"><b>Run & Deploy</b></a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -122,6 +127,9 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ## My latest projects <img src="https://slackmojis.com/emojis/4246-blob-sunglasses/download" width="25">
 <ul>
   <li><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition" width="20" alt="new"><b>ALPR-India</b></b></a><br/><i>An end-end Deep Learning ALPR project on which you can play around with opencv morphological options and OCR</i></li>
+</ul>
+<ul>
+  <li><a href="https://colab.research.google.com/drive/1dNvFgDjxiu_Ziu_oVn63uYgrc-OJ9uvE" width="20" alt="new"><b>Covid-19 Classifier & Dashboard</b></b></a><br/><i>An end-end Deep Learning based Covid-19 CT-scan Classification project with 97% accuracy and live Dashboard.</i></li>
 </ul>
 <br>
 
@@ -161,3 +169,5 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge">
 </div>
+
+
