@@ -65,13 +65,14 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
 ![Google Cloud Badge](https://img.shields.io/badge/-Google_Cloud_Platform-000000?style=flat-square&logo=google-cloud&logoColor=white)
-![Heroku Badge](https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku&logoColor=white)
-![Git Badge](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-EC2-000000?style=flat-square&logo=amazon-aws)
+![AWS SageMaker](https://img.shields.io/badge/-Sagemaker-000000?style=flat-square&logo=amazon-aws)
 ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-000000?logo=tensorflow&style=flat-square)
 ![Keras Badge](https://img.shields.io/badge/Keras-000000?logo=keras&style=flat-square)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-000000?logo=pytorch&style=flat-square)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
 ![Anaconda Badge](https://img.shields.io/badge/-Anaconda-000000?style=flat-square&logo=anaconda&logoColor=white)
 ![Jupyter Badge](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white)
@@ -80,11 +81,14 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=flat-square&logo=Raspberry-Pi)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visual-studio-code)
+![Folium](https://img.shields.io/badge/-Folium-000000?style=flat-square&logo=folium)
+![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat-square&logo=dash)
+
 
 **Languages:**  Python, SQL.
 
-**Libraries & Tools:** Google Cloud Platform, AWS EC2, Sagemaker, TensorFlow, Keras, PyTorch, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK, LaTeX, Trello.
+**Libraries & Tools:** Google Cloud Platform, AWS EC2, Sagemaker, TensorFlow, Keras, PyTorch, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib, NLTK, LaTeX, Trello(Kanban), Folium, Plotly.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Computer Vision, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Pipeline.
 
