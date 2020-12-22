@@ -83,7 +83,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 **Languages:**  Python, SQL.
 
-**Libraries & Tools:** Google Cloud Platform, TensorFlow, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK, LaTeX, Trello.
+**Libraries & Tools:** Google Cloud Platform, AWS EC2, Sagemaker, TensorFlow, Keras, PyTorch, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK, LaTeX, Trello.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Computer Vision, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Pipeline.
 
