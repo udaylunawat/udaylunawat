@@ -90,7 +90,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 **Libraries & Tools:** Google Cloud Platform, AWS EC2, Sagemaker, TensorFlow, Keras, PyTorch, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib, NLTK, LaTeX, Trello(Kanban), Folium, Plotly.
 
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Computer Vision, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Pipeline.
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Computer Vision, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Tableau, Pipeline.
 
 **Development Environment:** PopOS 20.04 (Using), Ubuntu 20.04, Windows OS, Jupyter Notebook, Visual Studio Code.
 
