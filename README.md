@@ -35,7 +35,7 @@
 ## Who Am I?
 
 
-<h3 align="center">Self Proclaimed Data Wizard 🧙‍♂️ from India 🇮🇳</h3>
+<h3 align="center">Data Wizard 🧙‍♂️ from India 🇮🇳</h3>
 
 <h3 align="center"><img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/giphy.gif" alt="Coder GIF" width="250" height="250"></h3>
 
@@ -62,6 +62,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ## Things I'm good at 🔥
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
+![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=Tableau)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
 ![Google Cloud Badge](https://img.shields.io/badge/-Google_Cloud_Platform-000000?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-EC2-000000?style=flat-square&logo=amazon-aws)
@@ -87,11 +88,11 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 **Languages:**  Python, SQL.
 
-**Libraries & Tools:** Google Cloud Platform, AWS EC2, Sagemaker, TensorFlow, Keras, PyTorch, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib, NLTK, LaTeX, Trello(Kanban), Folium, Plotly.
+**Libraries & Tools:** Google Cloud Platform, AWS EC2, Sagemaker, TensorFlow, Keras, PyTorch, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Tableau, Matplotlib, NLTK, LaTeX, Trello(Kanban), Folium, Plotly.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Computer Vision, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Tableau, Pipeline.
 
-**Development Environment:** PopOS 20.04 (Using), Ubuntu 20.04, Windows OS, Jupyter Notebook, Visual Studio Code.
+**Development Environment:** PopOS 20.04 (Currently using), Ubuntu, Windows OS, Jupyter Notebook, Visual Studio Code.
 
 **Version Control:**  One and only GitHub 💙
 </p>
