@@ -21,7 +21,6 @@
         <li>👯 I’m looking to collaborate on Open Source projects on Machine Learning .</li>
         <li>💬 Ask me about Machine Learning or any tech related stuff.</li>
         <li>😄 Pronouns: He/His .</li>
-        <li>⚡ Fun fact: Always wanted to explore the world via the mind phenomena.</li>
       </ul>
       </td>   
      <td>
