@@ -1,7 +1,9 @@
 <div align="center">
-  <h1>Hey, I'm Uday Lunawat! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px"></h1> </div>
+  <h1>Hey, I'm Uday Lunawat! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px"></h1> 
   <p align='center'> <samp>Data Science | Software Developer | Lifelong learner</samp></p>
-<div align="center">
+  
+</div>
+<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge"></div>
 
 <a href="https://www.linkedin.com/in/uday-lunawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/uday-lunawat"></a>
 <a href="mailto:udaylunawat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-udaylunawat@gmail.com"></a>
@@ -11,7 +13,6 @@
 <a href="https://open.spotify.com/playlist/69Ez7Nck73tXmrbGSVXdJ6" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <!-- <a href="https://medium.com/@udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium/@udaylunawat"></a> -->
 
-</div>
 
 <table>
   <tr>
@@ -171,7 +172,7 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 <br>
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge">
+
+### Show some ❤️ by starring some of the repositories!
+
 </div>
-
-
