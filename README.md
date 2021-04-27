@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hey, I'm Uday Lunawat! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px"></h1> 
+  <h1>Hey, I'm Uday Lunawat! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px"></h1>
+	</br>
   <p align='center'> <samp>Data Science | Software Developer | Lifelong learner</samp></p>
 </div>
 
