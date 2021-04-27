@@ -1,9 +1,8 @@
 <div align="center">
   <h1>Hey, I'm Uday Lunawat! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px"></h1>
-	</br>
-  <p align='center'> <samp>Data Science | Software Developer | Lifelong learner</samp></p>
+  <h2 align='center'> <samp>Data Science | Software Developer | Lifelong learner</samp></h2>
 </div>
-
+</br>
 <div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge"></div>
 
 <div align="center">
