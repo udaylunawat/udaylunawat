@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hey, I'm Uday Lunawat! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px"></h1> 
+  <h1>Hey, I'm Uday Lunawat! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px"></h1> 
   <p align='center'> <samp>Data Science | Software Developer | Lifelong learner</samp></p>
-  
 </div>
+
 <div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge"></div>
 
 <a href="https://www.linkedin.com/in/uday-lunawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/uday-lunawat"></a>
