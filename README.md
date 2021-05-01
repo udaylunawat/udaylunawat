@@ -116,7 +116,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-	    <td><a href="https://colab.research.google.com/drive/1dNvFgDjxiu_Ziu_oVn63uYgrc-OJ9uvE"><b>Covid-19 Classifier & Dashboard</b></a></td>
+	    <td><a href="https://github.com/udaylunawat/Covid-19-Radiology"><b>Covid-19 Classifier & Dashboard</b></a></td>
       <td><a href="https://colab.research.google.com/drive/1dNvFgDjxiu_Ziu_oVn63uYgrc-OJ9uvE"><b>Run & Deploy</b></a></td>
     </tr>
   </tbody>
@@ -145,7 +145,7 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-lunawat)](https://www.linkedin.com/in/uday-lunawat/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashrajjain726@gmail.com)](mailto:udaylunawat@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/yashrajjain726)](https://github.com/udaylunawat)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-181717?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/7020901969)](https://wa.me/7020901969)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-181717?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/7887576672)](https://wa.me/7887576672)
 [![Skype](https://img.shields.io/badge/-Skype-181717?style=flat-square&logo=skype&logoColor=white&link=https://join.skype.com/invite/Xxhxebkfcp00)](https://join.skype.com/invite/Xxhxebkfcp00)
 
 
