@@ -116,6 +116,9 @@ I am working towards a role where I can engage with a group of like-minded peopl
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition"><b>Manufacturing Analytics Automation with Tableau</b></a></td>
+      <td align="center" colspan="5">Currently set as Private</td>
+    <tr>
 	    <td><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition"><b>Indian ALPR System - GCP</b></a></td>
       <td><a href="https://colab.research.google.com/drive/1BqegosjfXthG1v9p3TUVnfvkvMxAOC5g#scrollTo=LUUvnvqrvFy3"><b>Run & Deploy</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
@@ -126,6 +129,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
     <tr>
 	    <td><a href="https://github.com/udaylunawat/Covid-19-Radiology"><b>Covid-19 Classifier & Dashboard</b></a></td>
       <td><a href="https://colab.research.google.com/drive/1dNvFgDjxiu_Ziu_oVn63uYgrc-OJ9uvE"><b>Run & Deploy</b></a></td>
+      <td align="center" colspan="3">Currently set as Private</td>
     </tr>
   </tbody>
 </table>
