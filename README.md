@@ -116,7 +116,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition"><b>Manufacturing Analytics Automation with Tableau</b></a></td>
+      <td><a><b>Manufacturing Analytics Automation with Tableau</b></a></td>
       <td align="center" colspan="5">Currently set as Private</td>
     <tr>
 	    <td><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition"><b>Indian ALPR System - GCP</b></a></td>
