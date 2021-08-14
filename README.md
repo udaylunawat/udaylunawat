@@ -94,7 +94,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Computer Vision, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Tableau, Pipeline.
 
-**Development Environment:** PopOS 20.04 (Currently using), Ubuntu, Windows OS, Jupyter Notebook, Visual Studio Code.
+**Development Environment:** PopOS 21.04 (Debian based), Windows, MacOS Big Sur, Jupyter Notebook, Visual Studio Code.
 
 **Version Control:**  One and only GitHub 💙
 </p>
