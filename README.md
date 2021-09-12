@@ -25,13 +25,12 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at udaylunawat@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1jSjWpbP0bRVNfNi4Us_XC5bQQh-b7oSM/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
- 
+
 </br>
 </br>
 </br>
 
 ## Who Am I?
-
 
 ### Data Wizard 🧙‍♂️
 
@@ -41,7 +40,7 @@ I am a Machine learning and Data Science practitioner who loves to uncover the h
 
 I graduated in Information Tech from <a href="http://www.rknec.edu/" target="_blank">**RCOEM**</a>, Nagpur & since then I am working for people across the globe as a Freelance Machine Learning Engineer where I am learning new things in Data Science and implementing them in various projects.
 
-I was introduced to the field of Data Science and Machine learning during my 3rd year in College, during which I implemented two projects in Natural Language Processing. Since then, I breathe data.	
+I was introduced to the field of Data Science and Machine learning during my 3rd year in College, during which I implemented two projects in Natural Language Processing. Since then, I breathe data.
 
 In the past, I have worked with <a href="https://www.tcs.com/" target="_blank">**Tata Consultancy Services (TCS)**</a> and <a href="https://www.infosys.com/" target="_blank">**Infosys**</a> as a Business Intelligence and Python Intern.
 
@@ -57,11 +56,9 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 <br>
 
-
 ### 🛠 &nbsp;Tech Stack 🔥
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=Tableau)
@@ -87,8 +84,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ![Folium](https://img.shields.io/badge/-Folium-000000?style=flat-square&logo=folium)
 ![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat-square&logo=dash)
 
-
-**Languages:**  Python, SQL.
+**Languages:** Python, SQL.
 
 **Libraries & Tools:** Google Cloud Platform, AWS EC2, Sagemaker, TensorFlow,  
 Keras, PyTorch, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Tableau,  
@@ -101,12 +97,14 @@ Data Visualization, Tableau, Pipeline.
 **Development Environment:** PopOS 21.04 (Debian based), Windows 10, \
 MacOS Big Sur, Jupyter Notebook, Visual Studio Code.
 
-**Version Control:**  One and only GitHub 💙
+**Version Control:** One and only GitHub 💙
+
 </p>
 
 <br>
 
-## My Projects  <img src="https://slackmojis.com/emojis/5948-bongo_blob/download" width="25">
+## My Projects <img src="https://slackmojis.com/emojis/5948-bongo_blob/download" width="25">
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -123,7 +121,7 @@ MacOS Big Sur, Jupyter Notebook, Visual Studio Code.
       <td><a><b>Manufacturing Analytics Automation with Tableau</b></a></td>
       <td align="center" colspan="5">Currently set as Private</td>
     <tr>
-	    <td><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition"><b>Indian ALPR System - GCP</b></a></td>
+      <td><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition"><b>Indian ALPR System - GCP</b></a></td>
       <td><a href="https://colab.research.google.com/drive/1BqegosjfXthG1v9p3TUVnfvkvMxAOC5g#scrollTo=LUUvnvqrvFy3"><b>Run & Deploy</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
@@ -141,6 +139,7 @@ MacOS Big Sur, Jupyter Notebook, Visual Studio Code.
 <br>
 
 ## My latest projects <img src="https://slackmojis.com/emojis/4246-blob-sunglasses/download" width="25">
+
 <ul>
   <li><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition" width="20" alt="new"><b>ALPR-India</b></b></a><br/><i>An end-end Deep Learning ALPR project on which you can play around with opencv morphological options and OCR</i></li>
 </ul>
@@ -149,8 +148,8 @@ MacOS Big Sur, Jupyter Notebook, Visual Studio Code.
 </ul>
 <br>
 
-
 ## How to reach me 📱
+
 <table>
   <tr>
     <td>
@@ -164,12 +163,11 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-181717?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/7887576672)](https://wa.me/7887576672)
 [![Skype](https://img.shields.io/badge/-Skype-181717?style=flat-square&logo=skype&logoColor=white&link=https://join.skype.com/invite/Xxhxebkfcp00)](https://join.skype.com/invite/Xxhxebkfcp00)
 
-
 <!-- [<img src="https://img.icons8.com/windows/64/000000/medium-logo.png"/>](https://medium.com/@udaylunawat) -->
 
  </td>   
      <td>
-     <img align='right' src="https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=&hide_border=true&theme=dracula">
+     <img align='right' src="https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=&hide_border=true&theme=radical">
      </td>
    </tr>
 </table>
@@ -177,6 +175,7 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 <br>
 
 ## 😄 Know More About Me:
+
 <li> Visit to see my education, experience, projects, certifications, achievements and testimonials of my clients
 <li> 🔖 Discover more about me at my <a href="https://udaylunawat.github.io/" target="_blank">Website</a><br/>
 <li> 💼 Hire Me <a href="https://drive.google.com/file/d/1jSjWpbP0bRVNfNi4Us_XC5bQQh-b7oSM/view?usp=sharing" target="_blank">Resume</a><br/>
