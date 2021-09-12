@@ -58,7 +58,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 ### 🛠 &nbsp;Tech Stack 🔥
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" align="right"/>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=Tableau)
