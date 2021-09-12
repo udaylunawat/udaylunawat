@@ -3,43 +3,39 @@
   <h2 align='center'> <samp>Data Science | Software Developer | Lifelong learner</samp></h2>
 </div>
 
-<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge"></div>
+<p align="center">
+<a align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge"/>
+<a align="center" href="https://www.linkedin.com/in/uday-lunawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/uday-lunawat"/>
+<a href="mailto:udaylunawat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-udaylunawat@gmail.com"/>
+<a href="https://twitter.com/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter-@udaylunawat"></a>
+<a href="https://www.instagram.com/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram-@udaylunawat"></a>
+<a href="https://paypal.me/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Paypal-00457C?style=flat-square&labelColor=000000&logo=PayPal" alt="https://paypal.me/udaylunawat"></a>
+<a href="https://open.spotify.com/playlist/69Ez7Nck73tXmrbGSVXdJ6" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<!-- <a href="https://medium.com/@udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium/@udaylunawat"></a> -->
+</p>
 
-<div align="center">
-	<a href="https://www.linkedin.com/in/uday-lunawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/uday-lunawat"></a>
-	<a href="mailto:udaylunawat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-udaylunawat@gmail.com"></a>
-	<a href="https://twitter.com/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter-@udaylunawat"></a>
-	<a href="https://www.instagram.com/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram-@udaylunawat"></a>
-	<a href="https://paypal.me/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Paypal-00457C?style=flat-square&labelColor=000000&logo=PayPal" alt="https://paypal.me/udaylunawat"></a>
-	<a href="https://open.spotify.com/playlist/69Ez7Nck73tXmrbGSVXdJ6" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-	<!-- <a href="https://medium.com/@udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium/@udaylunawat"></a> -->
-</div>
+<img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" height="300" width="200" align="right"/>
+	
+### 👨🏻‍💻 &nbsp;About Me
 
-
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🔭 I’m currently working as a Data Science practitioner and freelancer.</li>
-        <li>👯 I’m looking to collaborate on Open Source projects on Machine Learning .</li>
-        <li>💬 Ask me about Machine Learning or any tech related stuff.</li>
-      </ul>
-      </td>   
-     <td>
-      <img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" width="500">
-     </td>
-   </tr>
-</table>
-
-<br>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I’m currently working as a Data Science practitioner and freelancer.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Music and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at udaylunawat@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1jSjWpbP0bRVNfNi4Us_XC5bQQh-b7oSM/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+ 
+</br>
+</br>
+</br>
 
 ## Who Am I?
 
 
-<h3 align="center">Data Wizard 🧙‍♂️ from India 🇮🇳</h3>
+### Data Wizard 🧙‍♂️
 
-<h3 align="center"><img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/giphy.gif" alt="Coder GIF" width="250" height="250"></h3>
+<img alt="Coder GIF" src="https://github.com/udaylunawat/udaylunawat/blob/master/img/giphy.gif" height="300" width="200" align="right"/>
 
 I am a Machine learning and Data Science practitioner who loves to uncover the hidden facts and meaningful insights from messy data. I'm a Machine Learning Engineer graduate from AAIC (Applied AI Course) where I learned building effective Machine Learning & Deep Learning Model, running Data Pipelines, Natural Language Processing, Image Processing, building Recommendation Systems, and deploying solutions to the cloud.
 
@@ -61,27 +57,31 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 <br>
 
-## Things I'm good at 🔥
+
+### 🛠 &nbsp;Tech Stack 🔥
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=Tableau)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
 ![Google Cloud Badge](https://img.shields.io/badge/-Google_Cloud_Platform-000000?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-EC2-000000?style=flat-square&logo=amazon-aws)
-![AWS SageMaker](https://img.shields.io/badge/-Sagemaker-000000?style=flat-square&logo=amazon-aws)
+![AWS SageMaker](https://img.shields.io/badge/-Sagemaker-000000?style=flat-square&logo=amazon-aws)\
 ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-000000?logo=tensorflow&style=flat-square)
 ![Keras Badge](https://img.shields.io/badge/Keras-000000?logo=keras&style=flat-square)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-000000?logo=pytorch&style=flat-square)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
-![Anaconda Badge](https://img.shields.io/badge/-Anaconda-000000?style=flat-square&logo=anaconda&logoColor=white)
+![Anaconda Badge](https://img.shields.io/badge/-Anaconda-000000?style=flat-square&logo=anaconda&logoColor=white)\
 ![Jupyter Badge](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white)
 ![CMake Badge](https://img.shields.io/badge/-CMake-000000?style=flat-square&logo=cmake&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=flat-square&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=flat-square&logo=Raspberry-Pi)\
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visual-studio-code)
 ![Folium](https://img.shields.io/badge/-Folium-000000?style=flat-square&logo=folium)
@@ -90,11 +90,16 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 **Languages:**  Python, SQL.
 
-**Libraries & Tools:** Google Cloud Platform, AWS EC2, Sagemaker, TensorFlow, Keras, PyTorch, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Tableau, Matplotlib, NLTK, LaTeX, Trello(Kanban), Folium, Plotly.
+**Libraries & Tools:** Google Cloud Platform, AWS EC2, Sagemaker, TensorFlow,  
+Keras, PyTorch, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Tableau,  
+Matplotlib, NLTK, LaTeX, Trello(Kanban), Folium, Plotly.
 
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Computer Vision, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization, Tableau, Pipeline.
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing,  
+Computer Vision, Ensemble Methods, Model Development & Evaluation Metrics,  
+Data Visualization, Tableau, Pipeline.
 
-**Development Environment:** PopOS 21.04 (Debian based), Windows, MacOS Big Sur, Jupyter Notebook, Visual Studio Code.
+**Development Environment:** PopOS 21.04 (Debian based), Windows 10, \
+MacOS Big Sur, Jupyter Notebook, Visual Studio Code.
 
 **Version Control:**  One and only GitHub 💙
 </p>
