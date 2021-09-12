@@ -167,7 +167,7 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 
  </td>   
      <td>
-     <img align='right' src="https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=&hide_border=true&theme=radical">
+     <img align='right' src="https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=&hide_border=true&theme=tokyonight">
      </td>
    </tr>
 </table>
