@@ -4,7 +4,6 @@
 </div>
 
 <p align="center">
-<a align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge" alt="visitor badge"/>
 <a align="center" href="https://www.linkedin.com/in/uday-lunawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/uday-lunawat"/>
 <a href="mailto:udaylunawat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-udaylunawat@gmail.com"/>
 <a href="https://twitter.com/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter-@udaylunawat"></a>
@@ -186,3 +185,4 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+<div align="center">👀<img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge&title=This_Page_Has" alt="visitor badge"/> Visitors. Wow!
