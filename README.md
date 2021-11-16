@@ -93,10 +93,7 @@ Matplotlib, NLTK, LaTeX, Trello(Kanban), Folium, Plotly.
 Computer Vision, Ensemble Methods, Model Development & Evaluation Metrics,  
 Data Visualization, Tableau, Pipeline.
 
-**Development Environment:** PopOS 21.04 (Debian based), Windows 10, \
-MacOS Big Sur, Jupyter Notebook, Visual Studio Code.
-
-**Version Control:** One and only GitHub 💙
+**Development Environment:** MacOS Big Sur, Jupyter Notebook, Visual Studio Code.
 
 </p>
 
