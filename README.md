@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm Uday Lunawat! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px"></h1>
+  <h1>Hey, I'm Uday Lunawat! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25"></h1>
   <h2 align='center'> <samp>Data Science | Software Developer | Lifelong learner</samp></h2>
 </div>
 
@@ -43,7 +43,6 @@ I was introduced to the field of Data Science and Machine learning during my 3rd
 
 In the past, I have worked with <a href="https://www.tcs.com/" target="_blank">**Tata Consultancy Services (TCS)**</a> and <a href="https://www.infosys.com/" target="_blank">**Infosys**</a> as a Business Intelligence and Python Intern.
 
-Currently, I am also looking for a full-time role in Data Science, Machine Learning or related field.
 
 <br>
 
@@ -93,7 +92,7 @@ Matplotlib, NLTK, LaTeX, Trello(Kanban), Folium, Plotly.
 Computer Vision, Ensemble Methods, Model Development & Evaluation Metrics,  
 Data Visualization, Tableau, Pipeline.
 
-**Development Environment:** MacOS Big Sur, Jupyter Notebook, Visual Studio Code.
+**Development Environment:** MacOS, Linux,  Windows, Jupyter Notebook, Visual Studio Code.
 
 </p>
 
@@ -136,6 +135,9 @@ Data Visualization, Tableau, Pipeline.
 
 ## My latest projects <img src="https://slackmojis.com/emojis/4246-blob-sunglasses/download" width="25">
 
+<ul>
+  <li><a href="[https://github.com/udaylunawat/Automatic-License-Plate-Recognition](https://github.com/udaylunawat/Whats-this-rock)" width="20" alt="new"><b>Whats-this-Rock</b></b></a><br/><i>An Image Classification pipeline for identifying rocks deployed as a Telegram Bot</i></li>
+</ul>
 <ul>
   <li><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition" width="20" alt="new"><b>ALPR-India</b></b></a><br/><i>An end-end Deep Learning ALPR project on which you can play around with opencv morphological options and OCR</i></li>
 </ul>
