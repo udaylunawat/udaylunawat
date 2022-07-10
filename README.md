@@ -200,3 +200,8 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 
 </div>
 <div align="center">👀<img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge&title=This_Page_Has" alt="visitor badge"/> Visitors. Wow!
+
+## Watch my contribution graph eaten by the snake🐍
+<p align="center">
+  <img src="https://github.com/udaylunawat/udaylunawat/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
