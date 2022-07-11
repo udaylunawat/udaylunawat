@@ -194,15 +194,12 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 <li> 💼 Hire Me <a href="https://drive.google.com/file/d/1jSjWpbP0bRVNfNi4Us_XC5bQQh-b7oSM/view?usp=sharing" target="_blank">Resume</a><br/>
 <br>
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
 ## Watch my contribution graph eaten by the snake🐍
-<p align="center">
+<p>
   <img src="https://github.com/udaylunawat/udaylunawat/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-
+<div align="center">
+<h2> Show some ❤️ by starring some of the repositories! </h2>
 </div>
 <div align="center">👀<img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge&title=This_Page_Has" alt="visitor badge"/> Visitors. Wow! </div>
