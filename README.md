@@ -60,10 +60,20 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 ### 🛠 &nbsp;Tech Stack 🔥
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
 
+### Languages:-
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+
+### Data Analysis:-
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=Tableau)
+![Pandas Badge](https://img.shields.io/badge/Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![Folium](https://img.shields.io/badge/-Folium-000000?style=flat-square&logo=folium)
+![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat-square&logo=dash)
+
+### Tools & Platforms:- 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
 ![Google Cloud Badge](https://img.shields.io/badge/-Google_Cloud_Platform-000000?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-EC2-000000?style=flat-square&logo=amazon-aws)
@@ -71,22 +81,26 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-000000?logo=tensorflow&style=flat-square)
 ![Keras Badge](https://img.shields.io/badge/Keras-000000?logo=keras&style=flat-square)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-000000?logo=pytorch&style=flat-square)
-![Pandas Badge](https://img.shields.io/badge/Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Git Badge](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
-![Anaconda Badge](https://img.shields.io/badge/-Anaconda-000000?style=flat-square&logo=anaconda&logoColor=white)\
-![Jupyter Badge](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white)
 ![CMake Badge](https://img.shields.io/badge/-CMake-000000?style=flat-square&logo=cmake&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=flat-square&logo=Raspberry-Pi)\
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visual-studio-code)
-![Folium](https://img.shields.io/badge/-Folium-000000?style=flat-square&logo=folium)
-![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat-square&logo=dash)
 
-**Languages:** Python, SQL.
+### Hardware:-
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=flat-square&logo=Raspberry-Pi)
+![Macbook Air](https://img.shields.io/badge/-Macbook%20Air-000000?style=flat-square&logo=Macbook-Air)
+
+### Dev Environment:-
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visual-studio-code)
+![Jupyter Badge](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
+![Anaconda Badge](https://img.shields.io/badge/-Anaconda-000000?style=flat-square&logo=anaconda&logoColor=white)
+
+![Linux Badge](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white)
+![MacOS Badge](https://img.shields.io/badge/MacOs-000000?style=flat-square&logo=macos&logoColor=white)
+
+<!--**Languages:** Python, SQL.
 
 **Libraries & Tools:** Google Cloud Platform, AWS EC2, Sagemaker, TensorFlow,  
 Keras, PyTorch, Docker, Streamlit, NumPy, Pandas, Scikit-Learn, Tableau,  
@@ -96,7 +110,7 @@ Matplotlib, NLTK, LaTeX, Trello(Kanban), Folium, Plotly.
 Computer Vision, Ensemble Methods, Model Development & Evaluation Metrics,  
 Data Visualization, Tableau, Pipeline.
 
-**Development Environment:** MacOS, Linux,  Windows, Jupyter Notebook, Visual Studio Code.
+**Development Environment:** MacOS, Linux,  Windows, Jupyter Notebook, Visual Studio Code.-->
 
 </p>
 
