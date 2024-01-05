@@ -192,11 +192,11 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 
 <!-- [<img src="https://img.icons8.com/windows/64/000000/medium-logo.png"/>](https://medium.com/@udaylunawat) -->
 
- </td>   
+<!-- </td>   
      <td>
      <img align='right' src="https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=&hide_border=true&theme=tokyonight">
      </td>
-   </tr>
+   </tr> -->
 </table>
 
 <br>
