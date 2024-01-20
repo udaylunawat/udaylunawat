@@ -38,7 +38,7 @@
 
 <img alt="Coder GIF" src="https://github.com/udaylunawat/udaylunawat/blob/master/img/giphy.gif" height="300" width="200" align="right"/>
 
-I am a Machine learning and Data Science practitioner who loves to uncover the hidden facts and meaningful insights from messy data. I'm a Machine Learning Engineer graduate from AAIC (Applied AI Course) where I learned building effective Machine Learning & Deep Learning Model, running Data Pipelines, Natural Language Processing, Image Processing, building Recommendation Systems, and deploying solutions to the cloud.
+I am a Machine learning and Data Science practitioner who loves to uncover the hidden facts and meaningful insights from messy data. I'm a Machine Learning Engineer graduate from AAIC (Applied AI Course) where I learned building effective Machine Learning & Deep Learning Models, running Data Pipelines, Natural Language Processing, Image Processing, and deploying solutions to the cloud.
 
 I graduated in Information Tech from <a href="http://www.rknec.edu/" target="_blank">**RCOEM**</a>, Nagpur & since then I am working for people across the globe as a Freelance Machine Learning Engineer where I am learning new things in Data Science and implementing them in various projects.
 
@@ -51,9 +51,7 @@ In the past, I have worked with <a href="https://www.tcs.com/" target="_blank">
 
 ## What do I believe?
 
-Personally, I believe in the thought that “Time is the gift that most of us take for granted”. I love to keep myself busy in gaining new skills and doing freelancing projects on the weekends.
-
-I am working towards a role where I can engage with a group of like-minded people who dream to bring revolution in the world with data.
+I am working towards a role where I can engage with a group of like-minded people who dream to help people all over the world make their lives easier with data.
 
 <br>
 
@@ -153,10 +151,10 @@ Data Visualization, Tableau, Pipeline.
       	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/udaylunawat/Covid-19-Radiology?style=flat-square&labelColor=343b41"/>
 <!-- 	<td align="center" colspan="4">Currently set as Private</td> -->
     </tr>
-    <tr>
+<!--     <tr>
       <td><a><b>Manufacturing Analytics Automation with Tableau</b></a></td>
       <td align="center" colspan="5">Currently set as Private</td>
-    <tr>
+    <tr> -->
   </tbody>
 </table>
 
