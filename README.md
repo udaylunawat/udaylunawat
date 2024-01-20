@@ -40,7 +40,7 @@
 
 I am a Machine learning and Data Science practitioner who loves to uncover the hidden facts and meaningful insights from messy data. I'm a Machine Learning Engineer graduate from AAIC (Applied AI Course) where I learned building effective Machine Learning & Deep Learning Models, running Data Pipelines, Natural Language Processing, Image Processing, and deploying solutions to the cloud.
 
-I graduated in Information Tech from <a href="http://www.rknec.edu/" target="_blank">**RCOEM**</a>, Nagpur & since then I am working for people across the globe as a Freelance Machine Learning Engineer where I am learning new things in Data Science and implementing them in various projects.
+I graduated in Information Tech from <a href="http://www.rknec.edu/" target="_blank">**RCOEM**</a>, Nagpur & since then I am working with people across the globe as a Machine Learning Engineer where I am learning new things in Data Science and helping people develop solutions to their data problems.
 
 I was introduced to the field of Data Science and Machine learning during my 3rd year in College, during which I implemented two projects in Natural Language Processing. Since then, I breathe data.
 
