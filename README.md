@@ -208,7 +208,7 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 
 ## Watch my contribution graph eaten by the snake🐍
 <p>
-  <img src="https://github.com/udaylunawat/udaylunawat/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/udaylunawat/udaylunawat/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 <div align="center">
