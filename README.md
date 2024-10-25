@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Uday Lunawat <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
-  <h2 align="center"><samp>Machine Learning Engineer | MLOps Architect | Data Science Innovator</samp></h2>
+  <h2 align="center"><samp>AI & Machine Learning Engineer | MLOps Engineer | Data Scientist</samp></h2>
 </div>
 
 <p align="center">
