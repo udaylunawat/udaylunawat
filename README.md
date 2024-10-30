@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/uday-lunawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" height="250" width="250" align="right"/>
+<img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" height="350" width="250" align="right"/>
 
 ---
 
@@ -37,7 +37,7 @@
 |                             | **Experiment Tracking**       | ![Weights & Biases][wandb]                                                                                                                                                                                                                                      |
 | **Security & CI/CD**        | **Security**                 | ![Trivy][trivy]                                                                                                                                                                                                                                                 |
 |                             | **CI/CD**                    | ![GitHub Actions][githubactions]                                                                                                                                                                                                                                |
-| **Cloud Platforms**         | **AWS**                      | ![AWS EC2][awsec2] &nbsp;&nbsp; ![S3][s3] &nbsp;&nbsp; ![SageMaker][sagemaker]                                                                                                                                                                                  |
+| **Cloud Platforms**         | **AWS**                      | ![AWS EC2][awsec2] &nbsp;&nbsp; ![S3][s3] &nbsp;&nbsp; ![SageMaker][sagemaker] ![AWS EC2][awsec2] &nbsp;&nbsp; ![S3][s3] &nbsp;&nbsp; ![SageMaker][sagemaker] &nbsp;&nbsp; ![Lambda][lambda] &nbsp;&nbsp; ![ECR][ecr] &nbsp;&nbsp; ![ECS][ecs] &nbsp;&nbsp; ![EKS][eks]                                                                                                                                                                                   |
 |                             | **GCP**                      | ![Compute Engine][computeengine] &nbsp;&nbsp; ![BigQuery][bigquery] &nbsp;&nbsp; ![Vertex AI][vertexai] &nbsp;&nbsp; ![Cloud Storage][cloudstorage] &nbsp;&nbsp; ![Cloud Functions][cloudfunctions]                                                           |
 | **Containerization & Orchestration** | **Containerization**       | ![Docker][docker]                                                                                                                                                                                                                                               |
 |                             | **Orchestration**            | ![Kubernetes][kubernetes] &nbsp;&nbsp; ![Kubeflow][kubeflow]                                                                                                                                                                                                   |
@@ -50,49 +50,53 @@
 
 <!-- Badge References -->
 
-[python]: https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[tensorflow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-[pytorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-[scikitlearn]: https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-[xgboost]: https://img.shields.io/badge/XGBoost-008000?style=for-the-badge&logo=xgboost&logoColor=white
-[pandas]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-[numpy]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
-[tableau]: https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
-[matplotlib]: https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=matplotlib&logoColor=white
-[plotly]: https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white
-[dash]: https://img.shields.io/badge/Dash-013243?style=for-the-badge&logo=dash&logoColor=white
-[folium]: https://img.shields.io/badge/Folium-008000?style=for-the-badge&logo=folium&logoColor=white
-[streamlit]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
-[mlflow]: https://img.shields.io/badge/MLflow-4185F4?style=for-the-badge&logo=mlflow&logoColor=white
-[seldoncore]: https://img.shields.io/badge/Seldon_Core-2F80ED?style=for-the-badge&logo=seldon-core&logoColor=white
-[labelstudio]: https://img.shields.io/badge/Label_Studio-8B0000?style=for-the-badge&logo=label-studio&logoColor=white
-[wandb]: https://img.shields.io/badge/Weights_%26_Biases-F8B133?style=for-the-badge&logo=wandb
-[trivy]: https://img.shields.io/badge/Trivy-008080?style=for-the-badge&logo=trivy&logoColor=white
-[githubactions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
-[awsec2]: https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white
-[s3]: https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white
-[sagemaker]: https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-sagemaker&logoColor=white
-[computeengine]: https://img.shields.io/badge/Compute_Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[bigquery]: https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[vertexai]: https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[cloudstorage]: https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[cloudfunctions]: https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[pubsub]: https://img.shields.io/badge/Pub_Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[dataflow]: https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[aiplatform]: https://img.shields.io/badge/AI_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
-[kubeflow]: https://img.shields.io/badge/Kubeflow-1F72CD?style=for-the-badge&logo=kubeflow&logoColor=white
-[mysql]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-[postgresql]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-[mongodb]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-[vscode]: https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-[jupyternotebook]: https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white
-[macos]: https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white
-[linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white
-[windows]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-[macbookairm1]: https://img.shields.io/badge/MacBook_Air_M1-000000?style=for-the-badge&logo=apple&logoColor=white
-
+[python]: https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ffdd54
+[tensorflow]: https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=FF6F00
+[pytorch]: https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=EE4C2C
+[scikitlearn]: https://img.shields.io/badge/Scikit_Learn-black?style=for-the-badge&logo=scikit-learn&logoColor=F7931E
+[xgboost]: https://img.shields.io/badge/XGBoost-black?style=for-the-badge&logo=xgboost&logoColor=008000
+[spacy]: https://img.shields.io/badge/spaCy-black?style=for-the-badge&logo=spacy&logoColor=09A3D5
+[pandas]: https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=150458
+[numpy]: https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=013243
+[tableau]: https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau&logoColor=E97627
+[matplotlib]: https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=150458
+[plotly]: https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=3F4F75
+[dash]: https://img.shields.io/badge/Dash-black?style=for-the-badge&logo=dash&logoColor=013243
+[folium]: https://img.shields.io/badge/Folium-black?style=for-the-badge&logo=folium&logoColor=008000
+[streamlit]: https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=FF4B4B
+[mlflow]: https://img.shields.io/badge/MLflow-black?style=for-the-badge&logo=mlflow&logoColor=4185F4
+[seldoncore]: https://img.shields.io/badge/Seldon_Core-black?style=for-the-badge&logo=seldon-core&logoColor=2F80ED
+[labelstudio]: https://img.shields.io/badge/Label_Studio-black?style=for-the-badge&logo=label-studio&logoColor=8B0000
+[wandb]: https://img.shields.io/badge/Weights_%26_Biases-black?style=for-the-badge&logo=wandb&logoColor=F8B133
+[trivy]: https://img.shields.io/badge/Trivy-black?style=for-the-badge&logo=trivy&logoColor=008080
+[githubactions]: https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=github-actions&logoColor=2088FF
+[awsec2]: https://img.shields.io/badge/AWS_EC2-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900
+[s3]: https://img.shields.io/badge/S3-black?style=for-the-badge&logo=amazon-s3&logoColor=FF9900
+[sagemaker]: https://img.shields.io/badge/SageMaker-black?style=for-the-badge&logo=amazon-sagemaker&logoColor=232F3E
+[lambda]: https://img.shields.io/badge/AWS_Lambda-black?style=for-the-badge&logo=aws-lambda&logoColor=FF9900
+[ecr]: https://img.shields.io/badge/AWS_ECR-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900
+[ecs]: https://img.shields.io/badge/AWS_ECS-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900
+[eks]: https://img.shields.io/badge/AWS_EKS-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900
+[computeengine]: https://img.shields.io/badge/Compute_Engine-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
+[bigquery]: https://img.shields.io/badge/BigQuery-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
+[vertexai]: https://img.shields.io/badge/Vertex_AI-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
+[cloudstorage]: https://img.shields.io/badge/Cloud_Storage-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
+[cloudfunctions]: https://img.shields.io/badge/Cloud_Functions-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
+[pubsub]: https://img.shields.io/badge/Pub_Sub-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
+[dataflow]: https://img.shields.io/badge/Dataflow-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
+[aiplatform]: https://img.shields.io/badge/AI_Platform-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
+[docker]: https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED
+[kubernetes]: https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=326CE5
+[kubeflow]: https://img.shields.io/badge/Kubeflow-black?style=for-the-badge&logo=kubeflow&logoColor=1F72CD
+[mysql]: https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1
+[postgresql]: https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=336791
+[mongodb]: https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=4EA94B
+[vscode]: https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC
+[jupyternotebook]: https://img.shields.io/badge/Jupyter_Notebook-black?style=for-the-badge&logo=jupyter&logoColor=F37626
+[macos]: https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white
+[linux]: https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624
+[windows]: https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078D6
+[macbookairm1]: https://img.shields.io/badge/MacBook_Air_M1-black?style=for-the-badge&logo=apple&logoColor=white
 
 ## 🌟 Recent Experience with Open-Source MLOps Tools
 
