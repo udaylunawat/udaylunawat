@@ -20,54 +20,85 @@
 ✉️ Reach me at udaylunawat@gmail.com – I'll respond as soon as possible!  
 📄 Visit my [Website](https://udaylunawat.github.io) for more details, and let’s connect!
 
----
-
-## Key Skills and Tools 🔥
-
-With a strong foundation in building secure, scalable, and efficient ML workflows, I specialize in implementing end-to-end MLOps systems using open-source tools and cloud services. Here’s my complete stack:
-
-### **Programming & Frameworks**
-- **Languages**: ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=Python)
-- **Machine Learning**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat-square&logo=pytorch) ![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-000?style=flat-square&logo=scikit-learn) ![XGBoost](https://img.shields.io/badge/-XGBoost-000?style=flat-square&logo=xgboost)
-- **Data Analysis**: ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat-square&logo=numpy)
-
-### **Visualization & Frontend**
-- **Data Visualization**: ![Tableau](https://img.shields.io/badge/-Tableau-000?style=flat-square&logo=Tableau) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=flat-square&logo=matplotlib) ![Plotly](https://img.shields.io/badge/-Plotly-000?style=flat-square&logo=plotly) ![Dash](https://img.shields.io/badge/-Dash-000?style=flat-square&logo=dash) ![Folium](https://img.shields.io/badge/-Folium-000?style=flat-square&logo=folium)
-- **Frontend**: ![Streamlit](https://img.shields.io/badge/-Streamlit-000?style=flat-square&logo=streamlit)
-
-### **MLOps & Model Deployment**
-- **Model Management & Serving**: ![MLflow](https://img.shields.io/badge/-MLflow-000?style=flat-square&logo=mlflow) ![Seldon Core](https://img.shields.io/badge/-Seldon_Core-000?style=flat-square&logo=seldon) – Scalable model serving and monitoring with Kubernetes.
-- **Annotation & Labeling**: ![Label Studio](https://img.shields.io/badge/-Label%20Studio-000?style=flat-square&logo=label-studio&logoColor=white) – Human-in-the-loop feedback for continuous model improvement.
-- **Experiment Tracking**: ![Weights & Biases](https://img.shields.io/badge/-Weights_%26_Biases-000?style=flat-square&logo=wandb) – Hyperparameter tuning, experiment tracking, and model management.
-- **Documentation**: ![nbdev](https://img.shields.io/badge/-nbdev-000?style=flat-square&logo=github) – Auto-documentation and modularized code structure.
-
-### **Security & CI/CD**
-- **Security**: ![Trivy](https://img.shields.io/badge/-Trivy-000?style=flat-square&logo=trivy) – Automated vulnerability scanning in CI/CD pipelines.
-- **CI/CD**: ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=flat-square&logo=github-actions) – Automated deployment pipelines, testing, and integration for ML systems.
-
-### **Cloud Platforms**
-- **AWS**: ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-000?style=flat-square&logo=amazon-aws) ![S3](https://img.shields.io/badge/-S3-000?style=flat-square&logo=amazon-s3) ![SageMaker](https://img.shields.io/badge/-SageMaker-000?style=flat-square&logo=amazon-sagemaker) ![Lambda](https://img.shields.io/badge/-Lambda-000?style=flat-square&logo=aws-lambda) ![ECS](https://img.shields.io/badge/-ECS-000?style=flat-square&logo=amazon-ecs) ![EKS](https://img.shields.io/badge/-EKS-000?style=flat-square&logo=amazon-eks)
-- **Google Cloud Platform (GCP)**: ![Compute Engine](https://img.shields.io/badge/-Compute_Engine-000?style=flat-square&logo=google-cloud) ![BigQuery](https://img.shields.io/badge/-BigQuery-000?style=flat-square&logo=google-cloud) ![Vertex AI](https://img.shields.io/badge/-Vertex_AI-000?style=flat-square&logo=google-cloud) ![Cloud Storage](https://img.shields.io/badge/-Cloud_Storage-000?style=flat-square&logo=google-cloud) ![Cloud Run](https://img.shields.io/badge/-Cloud_Run-000?style=flat-square&logo=google-cloud) ![Google Data Studio](https://img.shields.io/badge/-Data_Studio-000?style=flat-square&logo=google-data-studio) ![Pub/Sub](https://img.shields.io/badge/-Pub_Sub-000?style=flat-square&logo=google-cloud)
-
-### **Containerization & Orchestration**
-- **Containerization**: ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
-- **Orchestration**: ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat-square&logo=kubernetes) ![Kubeflow](https://img.shields.io/badge/-Kubeflow-000?style=flat-square&logo=kubeflow)
-
-### **Data & Storage**
-- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis) ![BigQuery](https://img.shields.io/badge/-BigQuery-000?style=flat-square&logo=google-cloud)
-
-### **Dev Environment**
-- **IDEs & Tools**: ![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visual-studio-code) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-000?style=flat-square&logo=jupyter) ![Anaconda](https://img.shields.io/badge/-Anaconda-000?style=flat-square&logo=anaconda)
-- **Operating Systems**: ![macOS](https://img.shields.io/badge/-macOS-000?style=flat-square&logo=apple) ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-000?style=flat-square&logo=windows)
-
 
 ---
+
+## 🔥 Key Skills and Tools
+
+| Category                    | Subcategory                   | Tools                                                                                                                                                                                                                                                            |
+|-----------------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming & Frameworks**|                               | ![Python][python]                                                                                                                                                                                                                                               |
+| **Machine Learning**        |                               | ![TensorFlow][tensorflow] &nbsp;&nbsp; ![PyTorch][pytorch] &nbsp;&nbsp; ![Scikit Learn][scikitlearn] &nbsp;&nbsp; ![XGBoost][xgboost]                                                                                                                          |
+| **Data Analysis**           |                               | ![Pandas][pandas] &nbsp;&nbsp; ![NumPy][numpy]                                                                                                                                                                                                                  |
+| **Visualization & Frontend**| **Data Visualization**        | ![Tableau][tableau] &nbsp;&nbsp; ![Matplotlib][matplotlib] &nbsp;&nbsp; ![Plotly][plotly] &nbsp;&nbsp; ![Dash][dash] &nbsp;&nbsp; ![Folium][folium]                                                                                                            |
+|                             | **Frontend**                  | ![Streamlit][streamlit]                                                                                                                                                                                                                                         |
+| **MLOps & Model Deployment**| **Model Management & Serving**| ![MLflow][mlflow] &nbsp;&nbsp; ![Seldon Core][seldoncore]                                                                                                                                                                                                      |
+|                             | **Annotation & Labeling**     | ![Label Studio][labelstudio]                                                                                                                                                                                                                                    |
+|                             | **Experiment Tracking**       | ![Weights & Biases][wandb]                                                                                                                                                                                                                                      |
+| **Security & CI/CD**        | **Security**                 | ![Trivy][trivy]                                                                                                                                                                                                                                                 |
+|                             | **CI/CD**                    | ![GitHub Actions][githubactions]                                                                                                                                                                                                                                |
+| **Cloud Platforms**         | **AWS**                      | ![AWS EC2][awsec2] &nbsp;&nbsp; ![S3][s3] &nbsp;&nbsp; ![SageMaker][sagemaker]                                                                                                                                                                                  |
+|                             | **GCP**                      | ![Compute Engine][computeengine] &nbsp;&nbsp; ![BigQuery][bigquery] &nbsp;&nbsp; ![Vertex AI][vertexai] &nbsp;&nbsp; ![Cloud Storage][cloudstorage] &nbsp;&nbsp; ![Cloud Functions][cloudfunctions]                                                           |
+| **Containerization & Orchestration** | **Containerization**       | ![Docker][docker]                                                                                                                                                                                                                                               |
+|                             | **Orchestration**            | ![Kubernetes][kubernetes] &nbsp;&nbsp; ![Kubeflow][kubeflow]                                                                                                                                                                                                   |
+| **Data & Storage**          | **Databases**                | ![MySQL][mysql] &nbsp;&nbsp; ![PostgreSQL][postgresql] &nbsp;&nbsp; ![MongoDB][mongodb]                                                                                                                                                                         |
+| **Dev Environment**         | **IDEs & Tools**             | ![VS Code][vscode] &nbsp;&nbsp; ![Jupyter Notebook][jupyternotebook]                                                                                                                                                                                            |
+| **Operating System & Platform** | **Operating Systems**        | ![macOS][macos] &nbsp;&nbsp; ![Linux][linux] &nbsp;&nbsp; ![Windows][windows]                                                                                                                                                                                   |
+|                             | **Platform**                 | ![MacBook Air M1][macbookairm1]                                                                                                                                                                                                                                 |
+
+---
+
+<!-- Badge References -->
+
+[python]: https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[tensorflow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+[pytorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+[scikitlearn]: https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+[xgboost]: https://img.shields.io/badge/XGBoost-008000?style=for-the-badge&logo=xgboost&logoColor=white
+[pandas]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[numpy]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+[tableau]: https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
+[matplotlib]: https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=matplotlib&logoColor=white
+[plotly]: https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white
+[dash]: https://img.shields.io/badge/Dash-013243?style=for-the-badge&logo=dash&logoColor=white
+[folium]: https://img.shields.io/badge/Folium-008000?style=for-the-badge&logo=folium&logoColor=white
+[streamlit]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
+[mlflow]: https://img.shields.io/badge/MLflow-4185F4?style=for-the-badge&logo=mlflow&logoColor=white
+[seldoncore]: https://img.shields.io/badge/Seldon_Core-2F80ED?style=for-the-badge&logo=seldon-core&logoColor=white
+[labelstudio]: https://img.shields.io/badge/Label_Studio-8B0000?style=for-the-badge&logo=label-studio&logoColor=white
+[wandb]: https://img.shields.io/badge/Weights_%26_Biases-F8B133?style=for-the-badge&logo=wandb
+[trivy]: https://img.shields.io/badge/Trivy-008080?style=for-the-badge&logo=trivy&logoColor=white
+[githubactions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+[awsec2]: https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white
+[s3]: https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white
+[sagemaker]: https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-sagemaker&logoColor=white
+[computeengine]: https://img.shields.io/badge/Compute_Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[bigquery]: https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[vertexai]: https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[cloudstorage]: https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[cloudfunctions]: https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[pubsub]: https://img.shields.io/badge/Pub_Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[dataflow]: https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[aiplatform]: https://img.shields.io/badge/AI_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+[kubeflow]: https://img.shields.io/badge/Kubeflow-1F72CD?style=for-the-badge&logo=kubeflow&logoColor=white
+[mysql]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[postgresql]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+[mongodb]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[vscode]: https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[jupyternotebook]: https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white
+[macos]: https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white
+[linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white
+[windows]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[macbookairm1]: https://img.shields.io/badge/MacBook_Air_M1-000000?style=for-the-badge&logo=apple&logoColor=white
+
 
 ## 🌟 Recent Experience with Open-Source MLOps Tools
 
 I’ve harnessed open-source tools to deploy scalable, reliable, and secure ML solutions:
 
-- **Senior ML Engineer - MLOps**  
+- **Senior MLOps Engineer**  
   - **Tech Stack**: Python, MLflow, Seldon Core, Label Studio, Trivy, GitHub Actions, GCP
   - Deployed and managed human-in-the-loop ML workflows with **Label Studio** for feedback and enhanced model accuracy.
   - Implemented secure CI/CD pipelines using **Trivy** for vulnerability scanning and integrated **MLflow** for seamless model tracking.
@@ -142,6 +173,22 @@ I’ve harnessed open-source tools to deploy scalable, reliable, and secure ML s
 
 ---
 
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaylunawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaylunawat&theme=dark&hide_border=false" alt="GitHub Streak" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaylunawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udaylunawat&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="70%"/>
+</p>
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="70%"/>
+</p>
 
 ## How to reach me 📱
 
