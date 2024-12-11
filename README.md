@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Uday Lunawat <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
-  <h2 align="center"><samp>AI & Machine Learning Engineer | MLOps Engineer Specialist</samp></h2>
+  <h2 align="center"><samp>AI & Machine Learning Engineer</samp></h2>
 </div>
 
 <p align="center">
@@ -15,8 +15,7 @@
 
 ### 👨🏻‍💻 About Me
 
-💡 Passionate about advancing ML solutions from ideation to deployment with robust MLOps practices.  
-💬 I’m always open for discussions on emerging tech, pro bono consulting, and innovative data solutions.  
+💡 Passionate about advancing ML solutions from ideation to deployment.  
 ✉️ Reach me at udaylunawat@gmail.com – I'll respond as soon as possible!  
 📄 Visit my [Website](https://udaylunawat.github.io) for more details, and let’s connect!
 
@@ -28,20 +27,18 @@
 | Category                    | Subcategory                   | Tools                                                                                                                                                                                                                                                            |
 |-----------------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Programming & Frameworks**|                               | ![Python][python]                                                                                                                                                                                                                                               |
-| **Machine Learning**        |                               | ![TensorFlow][tensorflow] &nbsp;&nbsp; ![PyTorch][pytorch] &nbsp;&nbsp; ![Scikit Learn][scikitlearn] &nbsp;&nbsp; ![XGBoost][xgboost]                                                                                                                          |
+| **Machine Learning**        |                               | ![TensorFlow][tensorflow] &nbsp;&nbsp; ![Scikit Learn][scikitlearn] &nbsp;&nbsp; ![XGBoost][xgboost]                                                                                                                          |
 | **Data Analysis**           |                               | ![Pandas][pandas] &nbsp;&nbsp; ![NumPy][numpy]                                                                                                                                                                                                                  |
 | **Visualization & Frontend**| **Data Visualization**        | ![Tableau][tableau] &nbsp;&nbsp; ![Matplotlib][matplotlib] &nbsp;&nbsp; ![Plotly][plotly] &nbsp;&nbsp; ![Dash][dash] &nbsp;&nbsp; ![Folium][folium]                                                                                                            |
 |                             | **Frontend**                  | ![Streamlit][streamlit]                                                                                                                                                                                                                                         |
-| **MLOps & Model Deployment**| **Model Management & Serving**| ![MLflow][mlflow] &nbsp;&nbsp; ![Seldon Core][seldoncore]                                                                                                                                                                                                      |
+| **MLOps & Model Deployment**| **Model Management & Serving**| ![MLflow][mlflow] &nbsp;&nbsp;                                                                                                                                                                                               |
 |                             | **Annotation & Labeling**     | ![Label Studio][labelstudio]                                                                                                                                                                                                                                    |
-|                             | **Experiment Tracking**       | ![Weights & Biases][wandb]                                                                                                                                                                                                                                      |
-| **Security & CI/CD**        | **Security**                 | ![Trivy][trivy]                                                                                                                                                                                                                                                 |
+|                             | **Experiment Tracking**       | ![Weights & Biases][wandb]                                                                                                                                                                                                                                                                                     |
 |                             | **CI/CD**                    | ![GitHub Actions][githubactions]                                                                                                                                                                                                                                |
-| **Cloud Platforms**         | **AWS**                      | ![AWS EC2][awsec2] &nbsp;&nbsp; ![S3][s3] &nbsp;&nbsp; ![SageMaker][sagemaker] ![AWS EC2][awsec2] &nbsp;&nbsp; ![S3][s3] &nbsp;&nbsp; ![SageMaker][sagemaker] &nbsp;&nbsp; ![Lambda][lambda] &nbsp;&nbsp; ![ECR][ecr] &nbsp;&nbsp; ![ECS][ecs] &nbsp;&nbsp; ![EKS][eks]                                                                                                                                                                                   |
-|                             | **GCP**                      | ![Compute Engine][computeengine] &nbsp;&nbsp; ![BigQuery][bigquery] &nbsp;&nbsp; ![Vertex AI][vertexai] &nbsp;&nbsp; ![Cloud Storage][cloudstorage] &nbsp;&nbsp; ![Cloud Functions][cloudfunctions]                                                           |
+| **Cloud Platforms**         | **AWS**                      | ![AWS EC2][awsec2] &nbsp;&nbsp; ![S3][s3] &nbsp;&nbsp; ![SageMaker][sagemaker] ![AWS EC2][awsec2] &nbsp;&nbsp; ![S3][s3] &nbsp;&nbsp; ![SageMaker][sagemaker] &nbsp;&nbsp; ![Lambda][lambda] &nbsp;&nbsp;                                                                                                                                                                                 |
+|                             | **GCP**                      | ![Compute Engine][computeengine] &nbsp;&nbsp; ![Cloud Storage][cloudstorage] &nbsp;&nbsp; ![Cloud Functions][cloudfunctions]                                                           |
 | **Containerization & Orchestration** | **Containerization**       | ![Docker][docker]                                                                                                                                                                                                                                               |
-|                             | **Orchestration**            | ![Kubernetes][kubernetes] &nbsp;&nbsp; ![Kubeflow][kubeflow]                                                                                                                                                                                                   |
-| **Data & Storage**          | **Databases**                | ![MySQL][mysql] &nbsp;&nbsp; ![PostgreSQL][postgresql] &nbsp;&nbsp; ![MongoDB][mongodb]                                                                                                                                                                         |
+| **Data & Storage**          | **Databases**                | ![MySQL][mysql] &nbsp;&nbsp; ![PostgreSQL][postgresql]                                                                                                                                                                  |
 | **Dev Environment**         | **IDEs & Tools**             | ![VS Code][vscode] &nbsp;&nbsp; ![Jupyter Notebook][jupyternotebook]                                                                                                                                                                                            |
 | **Operating System & Platform** | **Operating Systems**        | ![macOS][macos] &nbsp;&nbsp; ![Linux][linux] &nbsp;&nbsp; ![Windows][windows]                                                                                                                                                                                   |
 |                             | **Platform**                 | ![MacBook Air M1][macbookairm1]                                                                                                                                                                                                                                 |
@@ -103,10 +100,8 @@
 I’ve harnessed open-source tools to deploy scalable, reliable, and secure ML solutions:
 
 - **Senior MLOps Engineer**  
-  - **Tech Stack**: Python, MLflow, Seldon Core, Label Studio, Trivy, GitHub Actions, GCP
-  - Deployed and managed human-in-the-loop ML workflows with **Label Studio** for feedback and enhanced model accuracy.
-  - Implemented secure CI/CD pipelines using **Trivy** for vulnerability scanning and integrated **MLflow** for seamless model tracking.
-  - Scaled model serving with **Seldon Core** on Kubernetes, enabling real-time monitoring, logging, and rapid model versioning.
+  - **Tech Stack**: Python, MLflow, Label Studio, GitHub Actions, GCP
+  - Deployed and managed ML workflows with **Label Studio** for feedback and enhanced model accuracy.
 
 - **Machine Learning Engineer - MLOps**  
   - **Tech Stack**: Python, MLflow, AWS, TensorFlow, nbdev, pruning, quantization
@@ -129,6 +124,15 @@ I’ve harnessed open-source tools to deploy scalable, reliable, and secure ML s
     </tr>
 	</thead>
   <tbody>
+     <tr>
+      <td><a href="https://github.com/udaylunawat/resume_gen"><b>One Click Resume Optimiser</b></a></td>
+      <td><a href="https://craftedresume.streamlit.app/"><b>Run</b></a></td>
+<!--       <td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/resume_gen?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/udaylunawat/resume_gen?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/udaylunawat/resume_gen?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/udaylunawat/resume_gen?style=flat-square&labelColor=343b41"/></td> -->
+     </tr>
+     <tr>
       <td><a href="https://github.com/udaylunawat/Whats-this-rock"><b>What's this Rock - Telegram</b></a></td>
       <td><a href="https://colab.research.google.com/drive/1N1CIqdOKlJSJla5PU53Yn9KWSao47eMv?usp=sharing"><b>Run & Deploy</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td>
@@ -163,7 +167,9 @@ I’ve harnessed open-source tools to deploy scalable, reliable, and secure ML s
 <br>
 
 ## My latest projects <img src="https://slackmojis.com/emojis/4246-blob-sunglasses/download" width="25">
-
+<ul>
+  <li><a href="https://github.com/udaylunawat/resume_gen" width="20" alt="new"><b>Resume Optimiser</b></b></a><br/><i>Rewrite your resume into a single page optimised resume based on entered Job Description</i></li>
+</ul>
 <ul>
   <li><a href="https://github.com/udaylunawat/Whats-this-rock" width="20" alt="new"><b>Whats-this-Rock</b></b></a><br/><i>An Image Classification pipeline for identifying rocks deployed as a Telegram Bot</i></li>
 </ul>
