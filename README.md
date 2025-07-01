@@ -125,6 +125,14 @@ I’ve harnessed open-source tools to deploy scalable, reliable, and secure ML s
 	</thead>
   <tbody>
      <tr>
+      <td><a href="https://github.com/udaylunawat/Data-Science-Projects/tree/master/NotebookLM_clone/Kokoro_GitHub"><b>PDF2Podcast</b></a></td>
+      <td><a href="https://huggingface.co/spaces/udayl/NotebookLM-Kokoro_TTS_App"><b>Run & Deploy</b></a></td>
+<!--       <td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td> -->
+    </tr>
+     <tr>
       <td><a href="https://github.com/udaylunawat/resume_gen"><b>One Click Resume Optimiser</b></a></td>
       <td><a href="https://craftedresume.streamlit.app/"><b>Run</b></a></td>
 <!--       <td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/resume_gen?style=flat-square&labelColor=343b41"/></td>
