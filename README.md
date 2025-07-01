@@ -230,7 +230,7 @@ Known on the internet as [udaylunawat](https://www.google.com/search?q=udayluna
 
 <li> Visit to see my education, experience, projects, certifications, achievements and testimonials given by my clients.
 <li> 🔖 Discover more about me at my <a href="https://udaylunawat.github.io/" target="_blank">Website</a><br/>
-<li> 💼 Hire Me <a href="https://drive.google.com/file/d/1SCOUAFa2-x_BQnSCO9Tt_o945g4OUgqW/view?usp=sharing" target="_blank">Resume</a><br/>
+<li> 💼 Hire Me <a href="https://drive.google.com/file/d/18cBgvAG8kiWjclVC48IWf0jnIWtA3M3D/view?usp=sharing" target="_blank">Resume</a><br/>
 <br>
 
 ## Watch my contribution graph eaten by the snake🐍
