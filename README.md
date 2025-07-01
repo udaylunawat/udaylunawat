@@ -19,94 +19,106 @@
 ✉️ Reach me at udaylunawat@gmail.com – I'll respond as soon as possible!  
 📄 Visit my [Website](https://udaylunawat.github.io) for more details, and let’s connect!
 
-
----
-
 ## 🔥 Key Skills and Tools
 
-| Category                    | Subcategory                   | Tools                                                                                                                                                                                                                                                            |
-|-----------------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming & Frameworks**|                               | ![Python][python]                                                                                                                                                                                                                                               |
-| **Machine Learning**        |                               | ![TensorFlow][tensorflow] &nbsp;&nbsp; ![Scikit Learn][scikitlearn] &nbsp;&nbsp; ![XGBoost][xgboost]                                                                                                                          |
-| **Data Analysis**           |                               | ![Pandas][pandas] &nbsp;&nbsp; ![NumPy][numpy]                                                                                                                                                                                                                  |
-| **Visualization & Frontend**| **Data Visualization**        | ![Tableau][tableau] &nbsp;&nbsp; ![Matplotlib][matplotlib] &nbsp;&nbsp; ![Plotly][plotly] &nbsp;&nbsp; ![Dash][dash] &nbsp;&nbsp; ![Folium][folium]                                                                                                            |
-|                             | **Frontend**                  | ![Streamlit][streamlit]                                                                                                                                                                                                                                         |
-| **MLOps & Model Deployment**| **Model Management & Serving**| ![MLflow][mlflow] &nbsp;&nbsp;                                                                                                                                                                                               |
-|                             | **Annotation & Labeling**     | ![Label Studio][labelstudio]                                                                                                                                                                                                                                    |
-|                             | **Experiment Tracking**       | ![Weights & Biases][wandb]                                                                                                                                                                                                                                                                                     |
-|                             | **CI/CD**                    | ![GitHub Actions][githubactions]                                                                                                                                                                                                                                |
-| **Cloud Platforms**         | **AWS**                      | ![AWS EC2][awsec2] &nbsp;&nbsp; ![S3][s3] &nbsp;&nbsp; ![SageMaker][sagemaker] ![AWS EC2][awsec2] &nbsp;&nbsp; ![S3][s3] &nbsp;&nbsp; ![SageMaker][sagemaker] &nbsp;&nbsp; ![Lambda][lambda] &nbsp;&nbsp;                                                                                                                                                                                 |
-|                             | **GCP**                      | ![Compute Engine][computeengine] &nbsp;&nbsp; ![Cloud Storage][cloudstorage] &nbsp;&nbsp; ![Cloud Functions][cloudfunctions]                                                           |
-| **Containerization & Orchestration** | **Containerization**       | ![Docker][docker]                                                                                                                                                                                                                                               |
-| **Data & Storage**          | **Databases**                | ![MySQL][mysql] &nbsp;&nbsp; ![PostgreSQL][postgresql]                                                                                                                                                                  |
-| **Dev Environment**         | **IDEs & Tools**             | ![VS Code][vscode] &nbsp;&nbsp; ![Jupyter Notebook][jupyternotebook]                                                                                                                                                                                            |
-| **Operating System & Platform** | **Operating Systems**        | ![macOS][macos] &nbsp;&nbsp; ![Linux][linux] &nbsp;&nbsp; ![Windows][windows]                                                                                                                                                                                   |
-|                             | **Platform**                 | ![MacBook Air M1][macbookairm1]                                                                                                                                                                                                                                 |
+| Category                    | Subcategory                   | Tools                                                                                                                                                                                                                                                                       |
+|-----------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming & Frameworks**| **Languages**                 | ![Python][python] &nbsp;&nbsp; ![Groovy][groovy]                                                                                                                                                                                                                            |
+|                             | **Web Frameworks**            | ![FastAPI][fastapi]                                                                                                                                                                                                                                                         |
+| **Machine Learning**        | **Traditional ML**            | ![TensorFlow][tensorflow] &nbsp;&nbsp; ![Scikit Learn][scikitlearn] &nbsp;&nbsp; ![XGBoost][xgboost]                                                                                                                                                                     |
+|                             | **LLM Frameworks**            | ![LangChain][langchain] &nbsp;&nbsp; ![LangGraph][langgraph] &nbsp;&nbsp; ![Google ADK][googleadk]                                                                                                                                                                        |
+| **Data Engineering**        | **Big Data**                  | ![PySpark][pyspark] &nbsp;&nbsp; ![Databricks][databricks]                                                                                                                                                                                                                |
+|                             | **Data Analysis**             | ![Pandas][pandas] &nbsp;&nbsp; ![NumPy][numpy]                                                                                                                                                                                                                              |
+| **Visualization & Frontend**| **Data Visualization**        | ![Tableau][tableau] &nbsp;&nbsp; ![Matplotlib][matplotlib] &nbsp;&nbsp; ![Plotly][plotly] &nbsp;&nbsp; ![Dash][dash] &nbsp;&nbsp; ![Folium][folium]                                                                                                                       |
+|                             | **App Frameworks**            | ![Streamlit][streamlit] &nbsp;&nbsp; ![Gradio][gradio]                                                                                                                                                                                                                      |
+| **MLOps & Deployment**      | **Model Serving**             | ![MLflow][mlflow] &nbsp;&nbsp; ![Seldon Core][seldoncore] &nbsp;&nbsp; ![Cloud Run][cloudrun]                                                                                                                                                                             |
+|                             | **Experiment Tracking**       | ![Weights & Biases][wandb] &nbsp;&nbsp; ![Langfuse][langfuse]                                                                                                                                                                                                               |
+|                             | **CI/CD**                     | ![GitHub Actions][githubactions] &nbsp;&nbsp; ![Jenkins][jenkins]                                                                                                                                                                                                           |
+| **Cloud Platforms**         | **AWS**                       | ![EC2][awsec2] &nbsp;&nbsp; ![S3][s3] &nbsp;&nbsp; ![SageMaker][sagemaker] &nbsp;&nbsp; ![Lambda][lambda]                                                                                                                                                                |
+|                             | **GCP**                       | ![Compute Engine][computeengine] &nbsp;&nbsp; ![Cloud Storage][cloudstorage] &nbsp;&nbsp; ![Cloud Functions][cloudfunctions] &nbsp;&nbsp; ![Vertex AI][vertexai]                                                                                                           |
+| **Container & Orchestration**| **Containerization**          | ![Docker][docker] &nbsp;&nbsp; ![Kubernetes][kubernetes] &nbsp;&nbsp; ![Kubeflow][kubeflow]                                                                                                                                                                                                                                                           |
+| **Data & Storage**          | **Databases**                 | ![MySQL][mysql] &nbsp;&nbsp; ![PostgreSQL][postgresql] &nbsp;&nbsp; ![MongoDB][mongodb] &nbsp;&nbsp; ![Redis][redis]                                                                                                                                                     |
+|                             | **Database Tools**            | ![SQLModel][sqlmodel] &nbsp;&nbsp; ![Alembic][alembic]                                                                                                                                                                                                                      |
+| **Dev Environment**         | **IDEs & Tools**              | ![VS Code][vscode] &nbsp;&nbsp; ![Jupyter Notebook][jupyternotebook]                                                                                                                                                                                                        |
+| **OS & Hardware**        | **Platforms**                 | ![macOS][macos] &nbsp;&nbsp; ![Linux][linux] &nbsp;&nbsp; ![Windows][windows] &nbsp;&nbsp; ![MacBook Air M1][macbookairm1] &nbsp;&nbsp; ![MacBook Air M4][macbookairm4]                                                                                                   |
 
 ---
 
-<!-- Badge References -->
+<!-- New Badge References -->
+[googleadk]: https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[pyspark]: https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white
+[databricks]: https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white
+[mongodb]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+[redis]: https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+[cloudrun]: https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[vertexai]: https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[groovy]: https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white
+[fastapi]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+[langchain]: https://img.shields.io/badge/LangChain-000000?style=for-the-badge
+[langgraph]: https://img.shields.io/badge/LangGraph-000000?style=for-the-badge
+[langfuse]: https://img.shields.io/badge/Langfuse-000000?style=for-the-badge
+[jenkins]: https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
+[sqlmodel]: https://img.shields.io/badge/SQLModel-000000?style=for-the-badge
+[alembic]: https://img.shields.io/badge/Alembic-000000?style=for-the-badge
+[gradio]: https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white
 
-[python]: https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ffdd54
-[tensorflow]: https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=FF6F00
-[pytorch]: https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=EE4C2C
-[scikitlearn]: https://img.shields.io/badge/Scikit_Learn-black?style=for-the-badge&logo=scikit-learn&logoColor=F7931E
-[xgboost]: https://img.shields.io/badge/XGBoost-black?style=for-the-badge&logo=xgboost&logoColor=008000
-[spacy]: https://img.shields.io/badge/spaCy-black?style=for-the-badge&logo=spacy&logoColor=09A3D5
-[pandas]: https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=150458
-[numpy]: https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=013243
-[tableau]: https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau&logoColor=E97627
-[matplotlib]: https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=150458
-[plotly]: https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=3F4F75
-[dash]: https://img.shields.io/badge/Dash-black?style=for-the-badge&logo=dash&logoColor=013243
-[folium]: https://img.shields.io/badge/Folium-black?style=for-the-badge&logo=folium&logoColor=008000
-[streamlit]: https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=FF4B4B
-[mlflow]: https://img.shields.io/badge/MLflow-black?style=for-the-badge&logo=mlflow&logoColor=4185F4
-[seldoncore]: https://img.shields.io/badge/Seldon_Core-black?style=for-the-badge&logo=seldon-core&logoColor=2F80ED
-[labelstudio]: https://img.shields.io/badge/Label_Studio-black?style=for-the-badge&logo=label-studio&logoColor=8B0000
-[wandb]: https://img.shields.io/badge/Weights_%26_Biases-black?style=for-the-badge&logo=wandb&logoColor=F8B133
-[trivy]: https://img.shields.io/badge/Trivy-black?style=for-the-badge&logo=trivy&logoColor=008080
-[githubactions]: https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=github-actions&logoColor=2088FF
-[awsec2]: https://img.shields.io/badge/AWS_EC2-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900
-[s3]: https://img.shields.io/badge/S3-black?style=for-the-badge&logo=amazon-s3&logoColor=FF9900
-[sagemaker]: https://img.shields.io/badge/SageMaker-black?style=for-the-badge&logo=amazon-sagemaker&logoColor=232F3E
-[lambda]: https://img.shields.io/badge/AWS_Lambda-black?style=for-the-badge&logo=aws-lambda&logoColor=FF9900
-[ecr]: https://img.shields.io/badge/AWS_ECR-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900
-[ecs]: https://img.shields.io/badge/AWS_ECS-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900
-[eks]: https://img.shields.io/badge/AWS_EKS-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900
-[computeengine]: https://img.shields.io/badge/Compute_Engine-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
-[bigquery]: https://img.shields.io/badge/BigQuery-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
-[vertexai]: https://img.shields.io/badge/Vertex_AI-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
-[cloudstorage]: https://img.shields.io/badge/Cloud_Storage-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
-[cloudfunctions]: https://img.shields.io/badge/Cloud_Functions-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
-[pubsub]: https://img.shields.io/badge/Pub_Sub-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
-[dataflow]: https://img.shields.io/badge/Dataflow-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
-[aiplatform]: https://img.shields.io/badge/AI_Platform-black?style=for-the-badge&logo=google-cloud&logoColor=4285F4
-[docker]: https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED
-[kubernetes]: https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=326CE5
-[kubeflow]: https://img.shields.io/badge/Kubeflow-black?style=for-the-badge&logo=kubeflow&logoColor=1F72CD
-[mysql]: https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1
-[postgresql]: https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=336791
-[mongodb]: https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=4EA94B
-[vscode]: https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC
-[jupyternotebook]: https://img.shields.io/badge/Jupyter_Notebook-black?style=for-the-badge&logo=jupyter&logoColor=F37626
-[macos]: https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white
-[linux]: https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624
-[windows]: https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078D6
-[macbookairm1]: https://img.shields.io/badge/MacBook_Air_M1-black?style=for-the-badge&logo=apple&logoColor=white
+<!-- Existing Badge References -->
+[python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[tensorflow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+[scikitlearn]: https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+[xgboost]: https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge&logo=xgboost&logoColor=white
+[pandas]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[numpy]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+[tableau]: https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
+[matplotlib]: https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge
+[plotly]: https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white
+[dash]: https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white
+[folium]: https://img.shields.io/badge/Folium-77B829?style=for-the-badge
+[streamlit]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
+[mlflow]: https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white
+[seldoncore]: https://img.shields.io/badge/Seldon_Core-2F80ED?style=for-the-badge
+[wandb]: https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black
+[githubactions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+[awsec2]: https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white
+[s3]: https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white
+[sagemaker]: https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[lambda]: https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white
+[computeengine]: https://img.shields.io/badge/Compute_Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[cloudstorage]: https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[cloudfunctions]: https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[kubernetes]: https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white
+[kubeflow]: https://img.shields.io/badge/Kubeflow-2496ED?style=for-the-badge&logo=kubeflow&logoColor=white
+[mysql]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[postgresql]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+[vscode]: https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[jupyternotebook]: https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
+[macos]: https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white
+[linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[windows]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[macbookairm1]: https://img.shields.io/badge/MacBook_Air_M1-000000?style=for-the-badge&logo=apple&logoColor=white
+[macbookairm4]: https://img.shields.io/badge/MacBook_Air_M4-000000?style=for-the-badge&logo=apple&logoColor=white
+
+## 🔥 Current Role: Senior Machine Learning Engineer (Agentic Gen AI) @ Fractal AI
+**Nov 2024 – Present** | Pune, India  
+**Tech Stack**: Python, GCP, LangGraph, FastAPI, Jenkins, SQLModel, Alembic  
+- Improved and maintained a Multi-Agent Framework using LangGraph, facilitating model-agnostic and multi-model interactions
+- Implemented robust database migration strategies utilizing Alembic, ensuring seamless schema evolution and version control
+- Integrated Langfuse and New Relic for efficient tracking and management of artifacts
+- Deployed scalable applications on Google Cloud Platform (GCP) leveraging Vertex AI and Cloud Run
+- Established standardized CI/CD pipeline used by 40+ Agentic projects using Jenkins, saving developer time and eliminating redundant pipelines
 
 ## 🌟 Recent Experience with Open-Source MLOps Tools
-
-I’ve harnessed open-source tools to deploy scalable, reliable, and secure ML solutions:
+I've harnessed open-source tools to deploy scalable, reliable, and secure ML solutions:
 
 - **Senior MLOps Engineer**  
   - **Tech Stack**: Python, MLflow, Label Studio, GitHub Actions, GCP
-  - Deployed and managed ML workflows with **Label Studio** for feedback and enhanced model accuracy.
+  - Deployed and managed ML workflows with Label Studio for feedback and enhanced model accuracy
 
 - **Machine Learning Engineer - MLOps**  
   - **Tech Stack**: Python, MLflow, AWS, TensorFlow, nbdev, pruning, quantization
-  - Engineered real-time liveliness detection with **AWS** and optimized MLOps through modular script design, enhancing maintainability.
-  - Leveraged **MLflow** for model management and **TensorFlow** for efficient model training, achieving ultra-low latency with AWS integration.
+  - Engineered real-time liveliness detection with AWS and optimized MLOps through modular script design
+  - Leveraged MLflow for model management and TensorFlow for efficient training, achieving ultra-low latency
 
 ---
 
@@ -124,6 +136,14 @@ I’ve harnessed open-source tools to deploy scalable, reliable, and secure ML s
     </tr>
 	</thead>
   <tbody>
+     <tr>
+      <td><a href="https://github.com/udaylunawat/Data-Science-Projects/tree/master/agentic_data_analysis/agentic_data_analysis"><b>Agentic Data Analysis with Google ADK</b></a></td>
+<!--       <td><a href="https://huggingface.co/spaces/udayl/NotebookLM-Kokoro_TTS_App"><b>Run</b></a></td> -->
+<!--       <td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td> -->
+    </tr>
      <tr>
       <td><a href="https://github.com/udaylunawat/Data-Science-Projects/tree/master/NotebookLM_clone/Kokoro_GitHub"><b>PDF2Podcast</b></a></td>
       <td><a href="https://huggingface.co/spaces/udayl/NotebookLM-Kokoro_TTS_App"><b>Run & Deploy</b></a></td>
