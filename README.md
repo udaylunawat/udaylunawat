@@ -213,8 +213,7 @@ I've harnessed open-source tools to deploy scalable, reliable, and secure ML sol
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaylunawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaylunawat&theme=dark&hide_border=false" alt="GitHub Streak" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=udaylunawat&hide_rank=true&hide=contribs,prs&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%"/>
 </p>
 
 ## 🏆 GitHub Trophies
