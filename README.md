@@ -100,7 +100,9 @@
 [macbookairm4]: https://img.shields.io/badge/MacBook_Air_M4-000000?style=for-the-badge&logo=apple&logoColor=white
 
 ## 🔥 Current Role: Forward Deployed Engineer (Gen AI) @Google
-**Present** | Google | Mumbai, India
+
+**Present** | ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=black) | Mumbai, India
+
 **Nov 2024 – June 2026** | Fractal Analytics | Pune, India  
 **Tech Stack**: Python, GCP, LangGraph, FastAPI, Jenkins, SQLModel, Alembic  
 - Improved and maintained a Multi-Agent Framework using LangGraph, facilitating model-agnostic and multi-model interactions
