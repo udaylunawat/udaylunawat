@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Uday Lunawat <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
-  <h2 align="center"><samp>AI & Machine Learning Engineer</samp></h2>
+  <h2 align="center"><samp>Forward Deployed AI Engineer</samp></h2>
 </div>
 
 <p align="center">
@@ -99,8 +99,9 @@
 [macbookairm1]: https://img.shields.io/badge/MacBook_Air_M1-000000?style=for-the-badge&logo=apple&logoColor=white
 [macbookairm4]: https://img.shields.io/badge/MacBook_Air_M4-000000?style=for-the-badge&logo=apple&logoColor=white
 
-## 🔥 Current Role: Senior Machine Learning Engineer (Agentic Gen AI) @ Fractal AI
-**Nov 2024 – Present** | Pune, India  
+## 🔥 Current Role: Forward Deployed Engineer (Gen AI) @Google
+**Present** | Google | Mumbai, India
+**Nov 2024 – June 2026** | Fractal Analytics | Pune, India  
 **Tech Stack**: Python, GCP, LangGraph, FastAPI, Jenkins, SQLModel, Alembic  
 - Improved and maintained a Multi-Agent Framework using LangGraph, facilitating model-agnostic and multi-model interactions
 - Implemented robust database migration strategies utilizing Alembic, ensuring seamless schema evolution and version control
